@@ -1,0 +1,322 @@
+build,floor,area,hour,full,label
+Building 1 North,Floor 01,Area A,12,B1 F01 AA 5400 - N FL 01 Area A Int Ext Frame,Ext Frame
+Building 1 North,Floor 01,Area A,67,B1 F01 AA 7200 - N FL 01 Area A Int Int Insul,Int Insul
+Building 1 North,Floor 01,Area A,14,B1 F01 AA 9200 - N FL 01 Area A Int Int Layou,Int Layou
+Building 1 North,Floor 01,Area A,60,B1 F01 AA 9201 - N FL 01 Area A Int Int Frame,Int Frame
+Building 1 North,Floor 01,Area A,41,B1 F01 AA 9202 - N FL 01 Area A Int Int Top T,Int Top T
+Building 1 North,Floor 01,Area A,8,B1 F01 AA 9203 - N FL 01 Area A Int Int Shaft,Int Shaft
+Building 1 North,Floor 01,Area A,29,B1 F01 AA 9206 - N FL 01 Area A Int Int Backi,Int Backi
+Building 1 North,Floor 01,Area A,378,B1 F01 AA 9250 - N FL 01 Area A Int Drywall H,Drywall H
+Building 1 North,Floor 01,Area A,79,B1 F01 AA 9270 - N FL 01 Area A Int Firetape ,Firetape
+Building 1 North,Floor 01,Area A,211,B1 F01 AA 9280 - N FL 01 Area A Int Tape Wall,Tape Wall
+Building 1 North,Floor 01,Area A Exterior,4,B1 F01 AE 5390 - N FL 01 Area A Ext Ext ,Ext
+Building 1 North,Floor 01,Area A Exterior,48,B1 F01 AE 5400 - N FL 01 Area A Ext Ext Frame,Ext Frame
+Building 1 North,Floor 01,Area A Exterior,33,B1 F01 AE 5450 - N FL 01 Area A Ext Sheathing,Sheathing
+Building 1 North,Floor 01,Area A Exterior,26,B1 F01 AE 7100 - N FL 01 Area A Ext Ext Insul,Ext Insul
+Building 1 North,Floor 01,Area A Exterior,44,B1 F01 AE 9250 - N FL 01 Area A Ext Drywall H,Drywall H
+Building 1 North,Floor 01,Area A Exterior,33,B1 F01 AE 9265 - N FL 01 Area A Ext Ext Firet,Ext Firet
+Building 1 North,Floor 01,Area A Exterior,12,B1 F01 AE 9270 - N FL 01 Area A Ext Firetape ,Firetape
+Building 1 North,Floor 01,Area A Exterior,27,B1 F01 AE 9280 - N FL 01 Area A Ext Tape Wall,Tape Wall
+Building 1 North,Floor 01,Area B,10,B1 F01 AB 5400 - N FL 01 Area B Int Ext Frame,Ext Frame
+Building 1 North,Floor 01,Area B,65,B1 F01 AB 7200 - N FL 01 Area B Int Int Insul,Int Insul
+Building 1 North,Floor 01,Area B,17,B1 F01 AB 9200 - N FL 01 Area B Int Int Layou,Int Layou
+Building 1 North,Floor 01,Area B,76,B1 F01 AB 9201 - N FL 01 Area B Int Int Frame,Int Frame
+Building 1 North,Floor 01,Area B,49,B1 F01 AB 9202 - N FL 01 Area B Int Int Top T,Int Top T
+Building 1 North,Floor 01,Area B,35,B1 F01 AB 9206 - N FL 01 Area B Int Int Backi,Int Backi
+Building 1 North,Floor 01,Area B,290,B1 F01 AB 9250 - N FL 01 Area B Int Drywall H,Drywall H
+Building 1 North,Floor 01,Area B,97,B1 F01 AB 9270 - N FL 01 Area B Int Firetape ,Firetape
+Building 1 North,Floor 01,Area B,216,B1 F01 AB 9280 - N FL 01 Area B Int Tape Wall,Tape Wall
+Building 1 North,Floor 01,Area B Exterior,4,B1 F01 AF 5390 - N FL 01 Area B Ext Ext ,Ext
+Building 1 North,Floor 01,Area B Exterior,44,B1 F01 AF 5400 - N FL 01 Area B Ext Ext Frame,Ext Frame
+Building 1 North,Floor 01,Area B Exterior,30,B1 F01 AF 5450 - N FL 01 Area B Ext Sheathing,Sheathing
+Building 1 North,Floor 01,Area B Exterior,24,B1 F01 AF 7100 - N FL 01 Area B Ext Ext Insul,Ext Insul
+Building 1 North,Floor 01,Area B Exterior,37,B1 F01 AF 9250 - N FL 01 Area B Ext Drywall H,Drywall H
+Building 1 North,Floor 01,Area B Exterior,30,B1 F01 AF 9265 - N FL 01 Area B Ext Ext Firet,Ext Firet
+Building 1 North,Floor 01,Area B Exterior,11,B1 F01 AF 9270 - N FL 01 Area B Ext Firetape ,Firetape
+Building 1 North,Floor 01,Area B Exterior,24,B1 F01 AF 9280 - N FL 01 Area B Ext Tape Wall,Tape Wall
+Building 1 North,Floor 02,Area A,18,B1 F02 AA 5400 - N FL 02 Area A Int Ext Frame,Ext Frame
+Building 1 North,Floor 02,Area A,94,B1 F02 AA 7200 - N FL 02 Area A Int Int Insul,Int Insul
+Building 1 North,Floor 02,Area A,23,B1 F02 AA 9200 - N FL 02 Area A Int Int Layou,Int Layou
+Building 1 North,Floor 02,Area A,180,B1 F02 AA 9201 - N FL 02 Area A Int Int Frame,Int Frame
+Building 1 North,Floor 02,Area A,65,B1 F02 AA 9202 - N FL 02 Area A Int Int Top T,Int Top T
+Building 1 North,Floor 02,Area A,13,B1 F02 AA 9203 - N FL 02 Area A Int Int Shaft,Int Shaft
+Building 1 North,Floor 02,Area A,45,B1 F02 AA 9206 - N FL 02 Area A Int Int Backi,Int Backi
+Building 1 North,Floor 02,Area A,573,B1 F02 AA 9250 - N FL 02 Area A Int Drywall H,Drywall H
+Building 1 North,Floor 02,Area A,114,B1 F02 AA 9270 - N FL 02 Area A Int Firetape ,Firetape
+Building 1 North,Floor 02,Area A,338,B1 F02 AA 9280 - N FL 02 Area A Int Tape Wall,Tape Wall
+Building 1 North,Floor 02,Area A Exterior,5,B1 F02 AE 5390 - N FL 02 Area A Ext Ext ,Ext
+Building 1 North,Floor 02,Area A Exterior,63,B1 F02 AE 5400 - N FL 02 Area A Ext Ext Frame,Ext Frame
+Building 1 North,Floor 02,Area A Exterior,42,B1 F02 AE 5450 - N FL 02 Area A Ext Sheathing,Sheathing
+Building 1 North,Floor 02,Area A Exterior,34,B1 F02 AE 7100 - N FL 02 Area A Ext Ext Insul,Ext Insul
+Building 1 North,Floor 02,Area A Exterior,56,B1 F02 AE 9250 - N FL 02 Area A Ext Drywall H,Drywall H
+Building 1 North,Floor 02,Area A Exterior,43,B1 F02 AE 9265 - N FL 02 Area A Ext Ext Firet,Ext Firet
+Building 1 North,Floor 02,Area A Exterior,16,B1 F02 AE 9270 - N FL 02 Area A Ext Firetape ,Firetape
+Building 1 North,Floor 02,Area A Exterior,35,B1 F02 AE 9280 - N FL 02 Area A Ext Tape Wall,Tape Wall
+Building 1 North,Floor 02,Area B,10,B1 F02 AB 5400 - N FL 02 Area B Int Ext Frame,Ext Frame
+Building 1 North,Floor 02,Area B,39,B1 F02 AB 7200 - N FL 02 Area B Int Int Insul,Int Insul
+Building 1 North,Floor 02,Area B,12,B1 F02 AB 9200 - N FL 02 Area B Int Int Layou,Int Layou
+Building 1 North,Floor 02,Area B,114,B1 F02 AB 9201 - N FL 02 Area B Int Int Frame,Int Frame
+Building 1 North,Floor 02,Area B,34,B1 F02 AB 9202 - N FL 02 Area B Int Int Top T,Int Top T
+Building 1 North,Floor 02,Area B,24,B1 F02 AB 9206 - N FL 02 Area B Int Int Backi,Int Backi
+Building 1 North,Floor 02,Area B,190,B1 F02 AB 9250 - N FL 02 Area B Int Drywall H,Drywall H
+Building 1 North,Floor 02,Area B,64,B1 F02 AB 9270 - N FL 02 Area B Int Firetape ,Firetape
+Building 1 North,Floor 02,Area B,140,B1 F02 AB 9280 - N FL 02 Area B Int Tape Wall,Tape Wall
+Building 1 North,Floor 02,Area B Exterior,5,B1 F02 AF 5390 - N FL 02 Area B Ext Ext ,Ext
+Building 1 North,Floor 02,Area B Exterior,58,B1 F02 AF 5400 - N FL 02 Area B Ext Ext Frame,Ext Frame
+Building 1 North,Floor 02,Area B Exterior,39,B1 F02 AF 5450 - N FL 02 Area B Ext Sheathing,Sheathing
+Building 1 North,Floor 02,Area B Exterior,31,B1 F02 AF 7100 - N FL 02 Area B Ext Ext Insul,Ext Insul
+Building 1 North,Floor 02,Area B Exterior,48,B1 F02 AF 9250 - N FL 02 Area B Ext Drywall H,Drywall H
+Building 1 North,Floor 02,Area B Exterior,39,B1 F02 AF 9265 - N FL 02 Area B Ext Ext Firet,Ext Firet
+Building 1 North,Floor 02,Area B Exterior,14,B1 F02 AF 9270 - N FL 02 Area B Ext Firetape ,Firetape
+Building 1 North,Floor 02,Area B Exterior,32,B1 F02 AF 9280 - N FL 02 Area B Ext Tape Wall,Tape Wall
+Building 1 North,Floor 03,Area A,17,B1 F03 AA 5400 - N FL 03 Area A Int Ext Frame,Ext Frame
+Building 1 North,Floor 03,Area A,82,B1 F03 AA 7200 - N FL 03 Area A Int Int Insul,Int Insul
+Building 1 North,Floor 03,Area A,20,B1 F03 AA 9200 - N FL 03 Area A Int Int Layou,Int Layou
+Building 1 North,Floor 03,Area A,193,B1 F03 AA 9201 - N FL 03 Area A Int Int Frame,Int Frame
+Building 1 North,Floor 03,Area A,57,B1 F03 AA 9202 - N FL 03 Area A Int Int Top T,Int Top T
+Building 1 North,Floor 03,Area A,17,B1 F03 AA 9203 - N FL 03 Area A Int Int Shaft,Int Shaft
+Building 1 North,Floor 03,Area A,40,B1 F03 AA 9206 - N FL 03 Area A Int Int Backi,Int Backi
+Building 1 North,Floor 03,Area A,434,B1 F03 AA 9250 - N FL 03 Area A Int Drywall H,Drywall H
+Building 1 North,Floor 03,Area A,109,B1 F03 AA 9270 - N FL 03 Area A Int Firetape ,Firetape
+Building 1 North,Floor 03,Area A,264,B1 F03 AA 9280 - N FL 03 Area A Int Tape Wall,Tape Wall
+Building 1 North,Floor 03,Area A Exterior,4,B1 F03 AE 5390 - N FL 03 Area A Ext Ext ,Ext
+Building 1 North,Floor 03,Area A Exterior,51,B1 F03 AE 5400 - N FL 03 Area A Ext Ext Frame,Ext Frame
+Building 1 North,Floor 03,Area A Exterior,35,B1 F03 AE 5450 - N FL 03 Area A Ext Sheathing,Sheathing
+Building 1 North,Floor 03,Area A Exterior,28,B1 F03 AE 7100 - N FL 03 Area A Ext Ext Insul,Ext Insul
+Building 1 North,Floor 03,Area A Exterior,49,B1 F03 AE 9250 - N FL 03 Area A Ext Drywall H,Drywall H
+Building 1 North,Floor 03,Area A Exterior,35,B1 F03 AE 9265 - N FL 03 Area A Ext Ext Firet,Ext Firet
+Building 1 North,Floor 03,Area A Exterior,13,B1 F03 AE 9270 - N FL 03 Area A Ext Firetape ,Firetape
+Building 1 North,Floor 03,Area A Exterior,28,B1 F03 AE 9280 - N FL 03 Area A Ext Tape Wall,Tape Wall
+Building 1 North,Floor 03,Area B,8,B1 F03 AB 5400 - N FL 03 Area B Int Ext Frame,Ext Frame
+Building 1 North,Floor 03,Area B,61,B1 F03 AB 7200 - N FL 03 Area B Int Int Insul,Int Insul
+Building 1 North,Floor 03,Area B,16,B1 F03 AB 9200 - N FL 03 Area B Int Int Layou,Int Layou
+Building 1 North,Floor 03,Area B,175,B1 F03 AB 9201 - N FL 03 Area B Int Int Frame,Int Frame
+Building 1 North,Floor 03,Area B,45,B1 F03 AB 9202 - N FL 03 Area B Int Int Top T,Int Top T
+Building 1 North,Floor 03,Area B,31,B1 F03 AB 9206 - N FL 03 Area B Int Int Backi,Int Backi
+Building 1 North,Floor 03,Area B,248,B1 F03 AB 9250 - N FL 03 Area B Int Drywall H,Drywall H
+Building 1 North,Floor 03,Area B,90,B1 F03 AB 9270 - N FL 03 Area B Int Firetape ,Firetape
+Building 1 North,Floor 03,Area B,192,B1 F03 AB 9280 - N FL 03 Area B Int Tape Wall,Tape Wall
+Building 1 North,Floor 03,Area B Exterior,5,B1 F03 AF 5390 - N FL 03 Area B Ext Ext ,Ext
+Building 1 North,Floor 03,Area B Exterior,55,B1 F03 AF 5400 - N FL 03 Area B Ext Ext Frame,Ext Frame
+Building 1 North,Floor 03,Area B Exterior,37,B1 F03 AF 5450 - N FL 03 Area B Ext Sheathing,Sheathing
+Building 1 North,Floor 03,Area B Exterior,30,B1 F03 AF 7100 - N FL 03 Area B Ext Ext Insul,Ext Insul
+Building 1 North,Floor 03,Area B Exterior,12,B1 F03 AF 9201 - N FL 03 Area B Ext Int Frame,Int Frame
+Building 1 North,Floor 03,Area B Exterior,46,B1 F03 AF 9250 - N FL 03 Area B Ext Drywall H,Drywall H
+Building 1 North,Floor 03,Area B Exterior,37,B1 F03 AF 9265 - N FL 03 Area B Ext Ext Firet,Ext Firet
+Building 1 North,Floor 03,Area B Exterior,14,B1 F03 AF 9270 - N FL 03 Area B Ext Firetape ,Firetape
+Building 1 North,Floor 03,Area B Exterior,31,B1 F03 AF 9280 - N FL 03 Area B Ext Tape Wall,Tape Wall
+Building 1 North,Floor 04,Area A,16,B1 F04 AA 5400 - N FL 04 Area A Int Ext Frame,Ext Frame
+Building 1 North,Floor 04,Area A,80,B1 F04 AA 7200 - N FL 04 Area A Int Int Insul,Int Insul
+Building 1 North,Floor 04,Area A,20,B1 F04 AA 9200 - N FL 04 Area A Int Int Layou,Int Layou
+Building 1 North,Floor 04,Area A,198,B1 F04 AA 9201 - N FL 04 Area A Int Int Frame,Int Frame
+Building 1 North,Floor 04,Area A,58,B1 F04 AA 9202 - N FL 04 Area A Int Int Top T,Int Top T
+Building 1 North,Floor 04,Area A,12,B1 F04 AA 9203 - N FL 04 Area A Int Int Shaft,Int Shaft
+Building 1 North,Floor 04,Area A,40,B1 F04 AA 9206 - N FL 04 Area A Int Int Backi,Int Backi
+Building 1 North,Floor 04,Area A,419,B1 F04 AA 9250 - N FL 04 Area A Int Drywall H,Drywall H
+Building 1 North,Floor 04,Area A,110,B1 F04 AA 9270 - N FL 04 Area A Int Firetape ,Firetape
+Building 1 North,Floor 04,Area A,265,B1 F04 AA 9280 - N FL 04 Area A Int Tape Wall,Tape Wall
+Building 1 North,Floor 04,Area A Exterior,4,B1 F04 AE 5390 - N FL 04 Area A Ext Ext ,Ext
+Building 1 North,Floor 04,Area A Exterior,51,B1 F04 AE 5400 - N FL 04 Area A Ext Ext Frame,Ext Frame
+Building 1 North,Floor 04,Area A Exterior,35,B1 F04 AE 5450 - N FL 04 Area A Ext Sheathing,Sheathing
+Building 1 North,Floor 04,Area A Exterior,28,B1 F04 AE 7100 - N FL 04 Area A Ext Ext Insul,Ext Insul
+Building 1 North,Floor 04,Area A Exterior,49,B1 F04 AE 9250 - N FL 04 Area A Ext Drywall H,Drywall H
+Building 1 North,Floor 04,Area A Exterior,35,B1 F04 AE 9265 - N FL 04 Area A Ext Ext Firet,Ext Firet
+Building 1 North,Floor 04,Area A Exterior,13,B1 F04 AE 9270 - N FL 04 Area A Ext Firetape ,Firetape
+Building 1 North,Floor 04,Area A Exterior,29,B1 F04 AE 9280 - N FL 04 Area A Ext Tape Wall,Tape Wall
+Building 1 North,Floor 04,Area B,8,B1 F04 AB 5400 - N FL 04 Area B Int Ext Frame,Ext Frame
+Building 1 North,Floor 04,Area B,57,B1 F04 AB 7200 - N FL 04 Area B Int Int Insul,Int Insul
+Building 1 North,Floor 04,Area B,15,B1 F04 AB 9200 - N FL 04 Area B Int Int Layou,Int Layou
+Building 1 North,Floor 04,Area B,164,B1 F04 AB 9201 - N FL 04 Area B Int Int Frame,Int Frame
+Building 1 North,Floor 04,Area B,42,B1 F04 AB 9202 - N FL 04 Area B Int Int Top T,Int Top T
+Building 1 North,Floor 04,Area B,30,B1 F04 AB 9206 - N FL 04 Area B Int Int Backi,Int Backi
+Building 1 North,Floor 04,Area B,234,B1 F04 AB 9250 - N FL 04 Area B Int Drywall H,Drywall H
+Building 1 North,Floor 04,Area B,85,B1 F04 AB 9270 - N FL 04 Area B Int Firetape ,Firetape
+Building 1 North,Floor 04,Area B,181,B1 F04 AB 9280 - N FL 04 Area B Int Tape Wall,Tape Wall
+Building 1 North,Floor 04,Area B Exterior,5,B1 F04 AF 5390 - N FL 04 Area B Ext Ext ,Ext
+Building 1 North,Floor 04,Area B Exterior,55,B1 F04 AF 5400 - N FL 04 Area B Ext Ext Frame,Ext Frame
+Building 1 North,Floor 04,Area B Exterior,37,B1 F04 AF 5450 - N FL 04 Area B Ext Sheathing,Sheathing
+Building 1 North,Floor 04,Area B Exterior,30,B1 F04 AF 7100 - N FL 04 Area B Ext Ext Insul,Ext Insul
+Building 1 North,Floor 04,Area B Exterior,21,B1 F04 AF 9201 - N FL 04 Area B Ext Int Frame,Int Frame
+Building 1 North,Floor 04,Area B Exterior,46,B1 F04 AF 9250 - N FL 04 Area B Ext Drywall H,Drywall H
+Building 1 North,Floor 04,Area B Exterior,37,B1 F04 AF 9265 - N FL 04 Area B Ext Ext Firet,Ext Firet
+Building 1 North,Floor 04,Area B Exterior,14,B1 F04 AF 9270 - N FL 04 Area B Ext Firetape ,Firetape
+Building 1 North,Floor 04,Area B Exterior,31,B1 F04 AF 9280 - N FL 04 Area B Ext Tape Wall,Tape Wall
+Building 2 South,Floor 01,Area C,44,B2 F01 AC 5400 - S FL 01 Area C Int Ext Frame,Ext Frame
+Building 2 South,Floor 01,Area C,93,B2 F01 AC 7200 - S FL 01 Area C Int Int Insul,Int Insul
+Building 2 South,Floor 01,Area C,25,B2 F01 AC 9200 - S FL 01 Area C Int Int Layou,Int Layou
+Building 2 South,Floor 01,Area C,109,B2 F01 AC 9201 - S FL 01 Area C Int Int Frame,Int Frame
+Building 2 South,Floor 01,Area C,72,B2 F01 AC 9202 - S FL 01 Area C Int Int Top T,Int Top T
+Building 2 South,Floor 01,Area C,25,B2 F01 AC 9203 - S FL 01 Area C Int Int Shaft,Int Shaft
+Building 2 South,Floor 01,Area C,51,B2 F01 AC 9206 - S FL 01 Area C Int Int Backi,Int Backi
+Building 2 South,Floor 01,Area C,527,B2 F01 AC 9250 - S FL 01 Area C Int Drywall H,Drywall H
+Building 2 South,Floor 01,Area C,160,B2 F01 AC 9270 - S FL 01 Area C Int Firetape ,Firetape
+Building 2 South,Floor 01,Area C,300,B2 F01 AC 9280 - S FL 01 Area C Int Tape Wall,Tape Wall
+Building 2 South,Floor 01,Area C Exterior,6,B2 F01 AG 5390 - S FL 01 Area C Ext Ext ,Ext
+Building 2 South,Floor 01,Area C Exterior,71,B2 F01 AG 5400 - S FL 01 Area C Ext Ext Frame,Ext Frame
+Building 2 South,Floor 01,Area C Exterior,40,B2 F01 AG 5450 - S FL 01 Area C Ext Sheathing,Sheathing
+Building 2 South,Floor 01,Area C Exterior,38,B2 F01 AG 7100 - S FL 01 Area C Ext Ext Insul,Ext Insul
+Building 2 South,Floor 01,Area C Exterior,63,B2 F01 AG 9250 - S FL 01 Area C Ext Drywall H,Drywall H
+Building 2 South,Floor 01,Area C Exterior,40,B2 F01 AG 9265 - S FL 01 Area C Ext Ext Firet,Ext Firet
+Building 2 South,Floor 01,Area C Exterior,18,B2 F01 AG 9270 - S FL 01 Area C Ext Firetape ,Firetape
+Building 2 South,Floor 01,Area C Exterior,40,B2 F01 AG 9280 - S FL 01 Area C Ext Tape Wall,Tape Wall
+Building 2 South,Floor 01,Area D,23,B2 F01 AD 5400 - S FL 01 Area D Int Ext Frame,Ext Frame
+Building 2 South,Floor 01,Area D,128,B2 F01 AD 7200 - S FL 01 Area D Int Int Insul,Int Insul
+Building 2 South,Floor 01,Area D,33,B2 F01 AD 9200 - S FL 01 Area D Int Int Layou,Int Layou
+Building 2 South,Floor 01,Area D,304,B2 F01 AD 9201 - S FL 01 Area D Int Int Frame,Int Frame
+Building 2 South,Floor 01,Area D,92,B2 F01 AD 9202 - S FL 01 Area D Int Int Top T,Int Top T
+Building 2 South,Floor 01,Area D,60,B2 F01 AD 9206 - S FL 01 Area D Int Int Backi,Int Backi
+Building 2 South,Floor 01,Area D,693,B2 F01 AD 9250 - S FL 01 Area D Int Drywall H,Drywall H
+Building 2 South,Floor 01,Area D,175,B2 F01 AD 9270 - S FL 01 Area D Int Firetape ,Firetape
+Building 2 South,Floor 01,Area D,558,B2 F01 AD 9280 - S FL 01 Area D Int Tape Wall,Tape Wall
+Building 2 South,Floor 01,Area D Exterior,4,B2 F01 AH 5390 - S FL 01 Area D Ext Ext ,Ext
+Building 2 South,Floor 01,Area D Exterior,131,B2 F01 AH 5400 - S FL 01 Area D Ext Ext Frame,Ext Frame
+Building 2 South,Floor 01,Area D Exterior,121,B2 F01 AH 5450 - S FL 01 Area D Ext Sheathing,Sheathing
+Building 2 South,Floor 01,Area D Exterior,98,B2 F01 AH 7100 - S FL 01 Area D Ext Ext Insul,Ext Insul
+Building 2 South,Floor 01,Area D Exterior,6,B2 F01 AH 9200 - S FL 01 Area D Ext Int Layou,Int Layou
+Building 2 South,Floor 01,Area D Exterior,98,B2 F01 AH 9201 - S FL 01 Area D Ext Int Frame,Int Frame
+Building 2 South,Floor 01,Area D Exterior,29,B2 F01 AH 9202 - S FL 01 Area D Ext Int Top T,Int Top T
+Building 2 South,Floor 01,Area D Exterior,12,B2 F01 AH 9206 - S FL 01 Area D Ext Int Backi,Int Backi
+Building 2 South,Floor 01,Area D Exterior,127,B2 F01 AH 9250 - S FL 01 Area D Ext Drywall H,Drywall H
+Building 2 South,Floor 01,Area D Exterior,29,B2 F01 AH 9265 - S FL 01 Area D Ext Ext Firet,Ext Firet
+Building 2 South,Floor 01,Area D Exterior,11,B2 F01 AH 9270 - S FL 01 Area D Ext Firetape ,Firetape
+Building 2 South,Floor 01,Area D Exterior,150,B2 F01 AH 9280 - S FL 01 Area D Ext Tape Wall,Tape Wall
+Building 2 South,Floor 02,Area C,22,B2 F02 AC 5400 - S FL 02 Area C Int Ext Frame,Ext Frame
+Building 2 South,Floor 02,Area C,96,B2 F02 AC 7200 - S FL 02 Area C Int Int Insul,Int Insul
+Building 2 South,Floor 02,Area C,25,B2 F02 AC 9200 - S FL 02 Area C Int Int Layou,Int Layou
+Building 2 South,Floor 02,Area C,173,B2 F02 AC 9201 - S FL 02 Area C Int Int Frame,Int Frame
+Building 2 South,Floor 02,Area C,71,B2 F02 AC 9202 - S FL 02 Area C Int Int Top T,Int Top T
+Building 2 South,Floor 02,Area C,32,B2 F02 AC 9203 - S FL 02 Area C Int Int Shaft,Int Shaft
+Building 2 South,Floor 02,Area C,50,B2 F02 AC 9206 - S FL 02 Area C Int Int Backi,Int Backi
+Building 2 South,Floor 02,Area C,553,B2 F02 AC 9250 - S FL 02 Area C Int Drywall H,Drywall H
+Building 2 South,Floor 02,Area C,171,B2 F02 AC 9270 - S FL 02 Area C Int Firetape ,Firetape
+Building 2 South,Floor 02,Area C,277,B2 F02 AC 9280 - S FL 02 Area C Int Tape Wall,Tape Wall
+Building 2 South,Floor 02,Area C Exterior,5,B2 F02 AG 5390 - S FL 02 Area C Ext Ext ,Ext
+Building 2 South,Floor 02,Area C Exterior,57,B2 F02 AG 5400 - S FL 02 Area C Ext Ext Frame,Ext Frame
+Building 2 South,Floor 02,Area C Exterior,39,B2 F02 AG 5450 - S FL 02 Area C Ext Sheathing,Sheathing
+Building 2 South,Floor 02,Area C Exterior,31,B2 F02 AG 7100 - S FL 02 Area C Ext Ext Insul,Ext Insul
+Building 2 South,Floor 02,Area C Exterior,51,B2 F02 AG 9250 - S FL 02 Area C Ext Drywall H,Drywall H
+Building 2 South,Floor 02,Area C Exterior,39,B2 F02 AG 9265 - S FL 02 Area C Ext Ext Firet,Ext Firet
+Building 2 South,Floor 02,Area C Exterior,14,B2 F02 AG 9270 - S FL 02 Area C Ext Firetape ,Firetape
+Building 2 South,Floor 02,Area C Exterior,32,B2 F02 AG 9280 - S FL 02 Area C Ext Tape Wall,Tape Wall
+Building 2 South,Floor 02,Area D,7,B2 F02 AD 5400 - S FL 02 Area D Int Ext Frame,Ext Frame
+Building 2 South,Floor 02,Area D,88,B2 F02 AD 7200 - S FL 02 Area D Int Int Insul,Int Insul
+Building 2 South,Floor 02,Area D,21,B2 F02 AD 9200 - S FL 02 Area D Int Int Layou,Int Layou
+Building 2 South,Floor 02,Area D,189,B2 F02 AD 9201 - S FL 02 Area D Int Int Frame,Int Frame
+Building 2 South,Floor 02,Area D,59,B2 F02 AD 9202 - S FL 02 Area D Int Int Top T,Int Top T
+Building 2 South,Floor 02,Area D,18,B2 F02 AD 9203 - S FL 02 Area D Int Int Shaft,Int Shaft
+Building 2 South,Floor 02,Area D,41,B2 F02 AD 9206 - S FL 02 Area D Int Int Backi,Int Backi
+Building 2 South,Floor 02,Area D,552,B2 F02 AD 9250 - S FL 02 Area D Int Drywall H,Drywall H
+Building 2 South,Floor 02,Area D,94,B2 F02 AD 9270 - S FL 02 Area D Int Firetape ,Firetape
+Building 2 South,Floor 02,Area D,356,B2 F02 AD 9280 - S FL 02 Area D Int Tape Wall,Tape Wall
+Building 2 South,Floor 02,Area D Exterior,6,B2 F02 AH 5390 - S FL 02 Area D Ext Ext ,Ext
+Building 2 South,Floor 02,Area D Exterior,112,B2 F02 AH 5400 - S FL 02 Area D Ext Ext Frame,Ext Frame
+Building 2 South,Floor 02,Area D Exterior,50,B2 F02 AH 5450 - S FL 02 Area D Ext Sheathing,Sheathing
+Building 2 South,Floor 02,Area D Exterior,40,B2 F02 AH 7100 - S FL 02 Area D Ext Ext Insul,Ext Insul
+Building 2 South,Floor 02,Area D Exterior,64,B2 F02 AH 9250 - S FL 02 Area D Ext Drywall H,Drywall H
+Building 2 South,Floor 02,Area D Exterior,51,B2 F02 AH 9265 - S FL 02 Area D Ext Ext Firet,Ext Firet
+Building 2 South,Floor 02,Area D Exterior,19,B2 F02 AH 9270 - S FL 02 Area D Ext Firetape ,Firetape
+Building 2 South,Floor 02,Area D Exterior,41,B2 F02 AH 9280 - S FL 02 Area D Ext Tape Wall,Tape Wall
+Building 2 South,Floor 03,Area C,94,B2 F03 AC 7200 - S FL 03 Area C Int Int Insul,Int Insul
+Building 2 South,Floor 03,Area C,24,B2 F03 AC 9200 - S FL 03 Area C Int Int Layou,Int Layou
+Building 2 South,Floor 03,Area C,193,B2 F03 AC 9201 - S FL 03 Area C Int Int Frame,Int Frame
+Building 2 South,Floor 03,Area C,68,B2 F03 AC 9202 - S FL 03 Area C Int Int Top T,Int Top T
+Building 2 South,Floor 03,Area C,34,B2 F03 AC 9203 - S FL 03 Area C Int Int Shaft,Int Shaft
+Building 2 South,Floor 03,Area C,48,B2 F03 AC 9206 - S FL 03 Area C Int Int Backi,Int Backi
+Building 2 South,Floor 03,Area C,529,B2 F03 AC 9250 - S FL 03 Area C Int Drywall H,Drywall H
+Building 2 South,Floor 03,Area C,167,B2 F03 AC 9270 - S FL 03 Area C Int Firetape ,Firetape
+Building 2 South,Floor 03,Area C,258,B2 F03 AC 9280 - S FL 03 Area C Int Tape Wall,Tape Wall
+Building 2 South,Floor 03,Area C Exterior,4,B2 F03 AG 5390 - S FL 03 Area C Ext Ext ,Ext
+Building 2 South,Floor 03,Area C Exterior,48,B2 F03 AG 5400 - S FL 03 Area C Ext Ext Frame,Ext Frame
+Building 2 South,Floor 03,Area C Exterior,32,B2 F03 AG 5450 - S FL 03 Area C Ext Sheathing,Sheathing
+Building 2 South,Floor 03,Area C Exterior,26,B2 F03 AG 7100 - S FL 03 Area C Ext Ext Insul,Ext Insul
+Building 2 South,Floor 03,Area C Exterior,43,B2 F03 AG 9250 - S FL 03 Area C Ext Drywall H,Drywall H
+Building 2 South,Floor 03,Area C Exterior,32,B2 F03 AG 9265 - S FL 03 Area C Ext Ext Firet,Ext Firet
+Building 2 South,Floor 03,Area C Exterior,12,B2 F03 AG 9270 - S FL 03 Area C Ext Firetape ,Firetape
+Building 2 South,Floor 03,Area C Exterior,27,B2 F03 AG 9280 - S FL 03 Area C Ext Tape Wall,Tape Wall
+Building 2 South,Floor 03,Area D,7,B2 F03 AD 5400 - S FL 03 Area D Int Ext Frame,Ext Frame
+Building 2 South,Floor 03,Area D,51,B2 F03 AD 7200 - S FL 03 Area D Int Int Insul,Int Insul
+Building 2 South,Floor 03,Area D,11,B2 F03 AD 9200 - S FL 03 Area D Int Int Layou,Int Layou
+Building 2 South,Floor 03,Area D,71,B2 F03 AD 9201 - S FL 03 Area D Int Int Frame,Int Frame
+Building 2 South,Floor 03,Area D,32,B2 F03 AD 9202 - S FL 03 Area D Int Int Top T,Int Top T
+Building 2 South,Floor 03,Area D,25,B2 F03 AD 9203 - S FL 03 Area D Int Int Shaft,Int Shaft
+Building 2 South,Floor 03,Area D,23,B2 F03 AD 9206 - S FL 03 Area D Int Int Backi,Int Backi
+Building 2 South,Floor 03,Area D,313,B2 F03 AD 9250 - S FL 03 Area D Int Drywall H,Drywall H
+Building 2 South,Floor 03,Area D,54,B2 F03 AD 9270 - S FL 03 Area D Int Firetape ,Firetape
+Building 2 South,Floor 03,Area D,189,B2 F03 AD 9280 - S FL 03 Area D Int Tape Wall,Tape Wall
+Building 2 South,Floor 03,Area D Exterior,59,B2 F03 AH 5400 - S FL 03 Area D Ext Ext Frame,Ext Frame
+Building 2 South,Floor 03,Area D Exterior,40,B2 F03 AH 5450 - S FL 03 Area D Ext Sheathing,Sheathing
+Building 2 South,Floor 03,Area D Exterior,32,B2 F03 AH 7100 - S FL 03 Area D Ext Ext Insul,Ext Insul
+Building 2 South,Floor 03,Area D Exterior,4,B2 F03 AH 9201 - S FL 03 Area D Ext Int Frame,Int Frame
+Building 2 South,Floor 03,Area D Exterior,57,B2 F03 AH 9250 - S FL 03 Area D Ext Drywall H,Drywall H
+Building 2 South,Floor 03,Area D Exterior,40,B2 F03 AH 9265 - S FL 03 Area D Ext Ext Firet,Ext Firet
+Building 2 South,Floor 03,Area D Exterior,15,B2 F03 AH 9270 - S FL 03 Area D Ext Firetape ,Firetape
+Building 2 South,Floor 03,Area D Exterior,33,B2 F03 AH 9280 - S FL 03 Area D Ext Tape Wall,Tape Wall
+Building 2 South,Floor 04,Area C,24,B2 F04 AC 5400 - S FL 04 Area C Int Ext Frame,Ext Frame
+Building 2 South,Floor 04,Area C,103,B2 F04 AC 7200 - S FL 04 Area C Int Int Insul,Int Insul
+Building 2 South,Floor 04,Area C,28,B2 F04 AC 9200 - S FL 04 Area C Int Int Layou,Int Layou
+Building 2 South,Floor 04,Area C,240,B2 F04 AC 9201 - S FL 04 Area C Int Int Frame,Int Frame
+Building 2 South,Floor 04,Area C,80,B2 F04 AC 9202 - S FL 04 Area C Int Int Top T,Int Top T
+Building 2 South,Floor 04,Area C,23,B2 F04 AC 9203 - S FL 04 Area C Int Int Shaft,Int Shaft
+Building 2 South,Floor 04,Area C,56,B2 F04 AC 9206 - S FL 04 Area C Int Int Backi,Int Backi
+Building 2 South,Floor 04,Area C,586,B2 F04 AC 9250 - S FL 04 Area C Int Drywall H,Drywall H
+Building 2 South,Floor 04,Area C,189,B2 F04 AC 9270 - S FL 04 Area C Int Firetape ,Firetape
+Building 2 South,Floor 04,Area C,309,B2 F04 AC 9280 - S FL 04 Area C Int Tape Wall,Tape Wall
+Building 2 South,Floor 04,Area C Exterior,4,B2 F04 AG 5390 - S FL 04 Area C Ext Ext ,Ext
+Building 2 South,Floor 04,Area C Exterior,47,B2 F04 AG 5400 - S FL 04 Area C Ext Ext Frame,Ext Frame
+Building 2 South,Floor 04,Area C Exterior,32,B2 F04 AG 5450 - S FL 04 Area C Ext Sheathing,Sheathing
+Building 2 South,Floor 04,Area C Exterior,26,B2 F04 AG 7100 - S FL 04 Area C Ext Ext Insul,Ext Insul
+Building 2 South,Floor 04,Area C Exterior,43,B2 F04 AG 9250 - S FL 04 Area C Ext Drywall H,Drywall H
+Building 2 South,Floor 04,Area C Exterior,32,B2 F04 AG 9265 - S FL 04 Area C Ext Ext Firet,Ext Firet
+Building 2 South,Floor 04,Area C Exterior,12,B2 F04 AG 9270 - S FL 04 Area C Ext Firetape ,Firetape
+Building 2 South,Floor 04,Area C Exterior,27,B2 F04 AG 9280 - S FL 04 Area C Ext Tape Wall,Tape Wall
+Building 2 South,Floor 04,Area D,8,B2 F04 AD 5400 - S FL 04 Area D Int Ext Frame,Ext Frame
+Building 2 South,Floor 04,Area D,47,B2 F04 AD 7200 - S FL 04 Area D Int Int Insul,Int Insul
+Building 2 South,Floor 04,Area D,12,B2 F04 AD 9200 - S FL 04 Area D Int Int Layou,Int Layou
+Building 2 South,Floor 04,Area D,113,B2 F04 AD 9201 - S FL 04 Area D Int Int Frame,Int Frame
+Building 2 South,Floor 04,Area D,34,B2 F04 AD 9202 - S FL 04 Area D Int Int Top T,Int Top T
+Building 2 South,Floor 04,Area D,5,B2 F04 AD 9203 - S FL 04 Area D Int Int Shaft,Int Shaft
+Building 2 South,Floor 04,Area D,24,B2 F04 AD 9206 - S FL 04 Area D Int Int Backi,Int Backi
+Building 2 South,Floor 04,Area D,314,B2 F04 AD 9250 - S FL 04 Area D Int Drywall H,Drywall H
+Building 2 South,Floor 04,Area D,52,B2 F04 AD 9270 - S FL 04 Area D Int Firetape ,Firetape
+Building 2 South,Floor 04,Area D,193,B2 F04 AD 9280 - S FL 04 Area D Int Tape Wall,Tape Wall
+Building 2 South,Floor 04,Area D Exterior,5,B2 F04 AH 5390 - S FL 04 Area D Ext Ext ,Ext
+Building 2 South,Floor 04,Area D Exterior,123,B2 F04 AH 5400 - S FL 04 Area D Ext Ext Frame,Ext Frame
+Building 2 South,Floor 04,Area D Exterior,41,B2 F04 AH 5450 - S FL 04 Area D Ext Sheathing,Sheathing
+Building 2 South,Floor 04,Area D Exterior,32,B2 F04 AH 7100 - S FL 04 Area D Ext Ext Insul,Ext Insul
+Building 2 South,Floor 04,Area D Exterior,3,B2 F04 AH 9201 - S FL 04 Area D Ext Int Frame,Int Frame
+Building 2 South,Floor 04,Area D Exterior,57,B2 F04 AH 9250 - S FL 04 Area D Ext Drywall H,Drywall H
+Building 2 South,Floor 04,Area D Exterior,41,B2 F04 AH 9265 - S FL 04 Area D Ext Ext Firet,Ext Firet
+Building 2 South,Floor 04,Area D Exterior,15,B2 F04 AH 9270 - S FL 04 Area D Ext Firetape ,Firetape
+Building 2 South,Floor 04,Area D Exterior,33,B2 F04 AH 9280 - S FL 04 Area D Ext Tape Wall,Tape Wall
+Building 3,Roof,Exterior,3,B3 F05 Ext 5390 - Roof Ext Frame Layout,Ext Frame Layout
+Building 3,Roof,Exterior,69,B3 F05 Ext 5400 - Roof Ext Frame Material,Ext Frame Material
+Building 3,Roof,Exterior,23,B3 F05 Ext 5450 - Roof Sheathing Material,Sheathing Material
+Building 3,Roof,Exterior,18,B3 F05 Ext 7100 - Roof Ext Insulation Material,Ext Insulation Material
+Building 3,Roof,Exterior,36,B3 F05 Ext 9250 - Roof Drywall Hang Material,Drywall Hang Material
+Building 3,Roof,Exterior,23,B3 F05 Ext 9265 - Roof Ext Firetape ,Ext Firetape
+Building 3,Roof,Exterior,8,B3 F05 Ext 9270 - Roof Firetape ,Firetape
+Building 3,Roof,Exterior,19,B3 F05 Ext 9280 - Roof Tape Walls ,Tape Walls
+Building 3,Roof,Interior,6,B3 F05 Int 5400 - Roof Ext Frame Material,Ext Frame Material
+Building 3,Roof,Interior,9,B3 F05 Int 7200 - Roof Int Insulation Material,Int Insulation Material
+Building 3,Roof,Interior,2,B3 F05 Int 9200 - Roof Int Layout,Int Layout
+Building 3,Roof,Interior,8,B3 F05 Int 9201 - Roof Int Frame Material,Int Frame Material
+Building 3,Roof,Interior,5,B3 F05 Int 9202 - Roof Int Top Track Material,Int Top Track Material
+Building 3,Roof,Interior,29,B3 F05 Int 9203 - Roof Int Shaft Wall Material,Int Shaft Wall Material
+Building 3,Roof,Interior,4,B3 F05 Int 9206 - Roof Int Backing ,Int Backing
+Building 3,Roof,Interior,67,B3 F05 Int 9250 - Roof Drywall Hang Material,Drywall Hang Material
+Building 3,Roof,Interior,12,B3 F05 Int 9270 - Roof Firetape ,Firetape
+Building 3,Roof,Interior,26,B3 F05 Int 9280 - Roof Tape Walls ,Tape Walls
+Building 4,Floor 01,Ceilings,242,B4 F01 AK 9215 - Bldg 4 FL 01 Ceilings Int Frame Ceili,Int Frame Ceili
+Building 4,Floor 01,Ceilings,20,B4 F01 AK 9255 - Bldg 4 FL 01 Ceilings Ceiling Hang La,Ceiling Hang La
+Building 4,Floor 01,Ceilings,52,B4 F01 AK 9285 - Bldg 4 FL 01 Ceilings Tape Ceilings L,Tape Ceilings L
+Building 4,Floor 02,Ceilings,180,B4 F02 AK 9215 - Bldg 4 FL 02 Ceilings Int Frame Ceili,Int Frame Ceili
+Building 4,Floor 02,Ceilings,14,B4 F02 AK 9255 - Bldg 4 FL 02 Ceilings Ceiling Hang La,Ceiling Hang La
+Building 4,Floor 02,Ceilings,28,B4 F02 AK 9285 - Bldg 4 FL 02 Ceilings Tape Ceilings L,Tape Ceilings L
+Building 4,Floor 03,Ceilings,176,B4 F03 AK 9215 - Bldg 4 FL 03 Ceilings Int Frame Ceili,Int Frame Ceili
+Building 4,Floor 03,Ceilings,13,B4 F03 AK 9255 - Bldg 4 FL 03 Ceilings Ceiling Hang La,Ceiling Hang La
+Building 4,Floor 03,Ceilings,24,B4 F03 AK 9285 - Bldg 4 FL 03 Ceilings Tape Ceilings L,Tape Ceilings L
+Building 4,Floor 04,Ceilings,176,B4 F04 AK 9215 - Bldg 4 FL 04 Ceilings Int Frame Ceili,Int Frame Ceili
+Building 4,Floor 04,Ceilings,13,B4 F04 AK 9255 - Bldg 4 FL 04 Ceilings Ceiling Hang La,Ceiling Hang La
+Building 4,Floor 04,Ceilings,27,B4 F04 AK 9285 - Bldg 4 FL 04 Ceilings Tape Ceilings L,Tape Ceilings L
+General Conditions,,,3659,GC GC GC 0190 - GC GC GC Supervision,Supervision
+General Conditions,,,3120,GC GC GC 0195 - GC GC GC Stocker/Scrapper,Stocker/Scrapper

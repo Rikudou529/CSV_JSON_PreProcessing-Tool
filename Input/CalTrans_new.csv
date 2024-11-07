@@ -1,0 +1,58 @@
+build,floor,area,hour,full,label
+,,Area A,2435,AA 2100 - Area A Demolition,Demolition
+,,Area A,584,AA 5100 - Area A Ext Frame Layout,Ext Frame Layout
+,,Area A,1669,AA 5250 - Area A Ext Track Labor,Ext Track Labor
+,,Area A,3635,AA 5400 - Area A Ext Frame Labor,Ext Frame Labor
+,,Area A,2378,AA 5450 - Area A Sheathing Labor,Sheathing Labor
+,,Area A,3272,AA 5460 - Area A Ext Firetape Labor,Ext Firetape Labor
+,,Area A,2153,AA 7100 - Area A Ext Insulation Labor,Ext Insulation Labor
+,,Area A,3579,AA 7200 - Area A Int Insulation Labor,Int Insulation Labor
+,,Area A,909,AA 9200 - Area A Int Layout,Int Layout
+,,Area A,11479,AA 9201 - Area A Int Frame Labor,Int Frame Labor
+,,Area A,5193,AA 9202 - Area A Int Track Labor,Int Track Labor
+,,Area A,2019,AA 9206 - Area A Int Backing Labor,Int Backing Labor
+,,Area A,6543,AA 9240 - Area A Drywall Top Out Labor,Drywall Top Out Labor
+,,Area A,6350,AA 9250 - Area A Drywall Hang Labor,Drywall Hang Labor
+,,Area A,21249,AA 9280 - Area A Tape Walls Labor,Tape Walls Labor
+,,Area B,1992,AB 2100 - Area B Demolition,Demolition
+,,Area B,461,AB 5100 - Area B Ext Frame Layout,Ext Frame Layout
+,,Area B,1316,AB 5250 - Area B Ext Track Labor,Ext Track Labor
+,,Area B,2866,AB 5400 - Area B Ext Frame Labor,Ext Frame Labor
+,,Area B,1874,AB 5450 - Area B Sheathing Labor,Sheathing Labor
+,,Area B,2579,AB 5460 - Area B Ext Firetape Labor,Ext Firetape Labor
+,,Area B,1697,AB 7100 - Area B Ext Insulation Labor,Ext Insulation Labor
+,,Area B,3318,AB 7200 - Area B Int Insulation Labor,Int Insulation Labor
+,,Area B,970,AB 9200 - Area B Int Layout,Int Layout
+,,Area B,12845,AB 9201 - Area B Int Frame Labor,Int Frame Labor
+,,Area B,5545,AB 9202 - Area B Int Track Labor,Int Track Labor
+,,Area B,2364,AB 9203 - Area B Int Shaft Wall Labor,Int Shaft Wall Labor
+,,Area B,2156,AB 9206 - Area B Int Backing Labor,Int Backing Labor
+,,Area B,6585,AB 9240 - Area B Drywall Top Out Labor,Drywall Top Out Labor
+,,Area B,6305,AB 9250 - Area B Drywall Hang Labor,Drywall Hang Labor
+,,Area B,21186,AB 9280 - Area B Tape Walls Labor,Tape Walls Labor
+,,Area C,2324,AC 2100 - Area C Demolition,Demolition
+,,Area C,605,AC 5100 - Area C Ext Frame Layout,Ext Frame Layout
+,,Area C,1729,AC 5250 - Area C Ext Track Labor,Ext Track Labor
+,,Area C,3765,AC 5400 - Area C Ext Frame Labor,Ext Frame Labor
+,,Area C,2462,AC 5450 - Area C Sheathing Labor,Sheathing Labor
+,,Area C,3388,AC 5460 - Area C Ext Firetape Labor,Ext Firetape Labor
+,,Area C,2230,AC 7100 - Area C Ext Insulation Labor,Ext Insulation Labor
+,,Area C,3501,AC 7200 - Area C Int Insulation Labor,Int Insulation Labor
+,,Area C,1154,AC 9200 - Area C Int Layout,Int Layout
+,,Area C,12580,AC 9201 - Area C Int Frame Labor,Int Frame Labor
+,,Area C,6571,AC 9202 - Area C Int Track Labor,Int Track Labor
+,,Area C,2564,AC 9206 - Area C Int Backing Labor,Int Backing Labor
+,,Area C,16816,AC 9215 - Area C Int Frame Ceilings Labor,Int Frame Ceilings Labor
+,,Area C,6626,AC 9240 - Area C Drywall Top Out Labor,Drywall Top Out Labor
+,,Area C,7858,AC 9250 - Area C Drywall Hang Labor,Drywall Hang Labor
+,,Area C,1575,AC 9255 - Area C Ceiling Hang Labor,Ceiling Hang Labor
+,,Area C,24026,AC 9280 - Area C Tape Walls Labor,Tape Walls Labor
+,,Area C,1838,AC 9285 - Area C Tape Ceilings Labor,Tape Ceilings Labor
+,,Area D,430,AD 0111 - Alt 2 Badging/Fingerprinting,Badging/Fingerprinting
+,,Area D,1515,AD 0190 - Alt 2 Supervision,Supervision
+,,Area D,590,AD 0195 - Alt 2 Stocker/Scrapper,Stocker/Scrapper
+,,Area D,8599,AD 5450 - Alt 2 Sheathing Labor,Sheathing Labor
+,,Area D,13778,AD 6200 - Alt 2 Rough Carpentry Labor,Rough Carpentry Labor
+,,General Conditions,2579,A0 0111 - GC Badging/Fingerprinti,Badging/Fingerprinti
+,,General Conditions,17476,A0 0190 - GC Supervision,Supervision
+,,General Conditions,6806,A0 0195 - GC Stocker/Scrapper,Stocker/Scrapper

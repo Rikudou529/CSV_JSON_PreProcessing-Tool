@@ -1,0 +1,307 @@
+[
+  {
+    "label": "Building 0",
+    "children": [
+      {
+        "label": "Supervision",
+        "hours": 212,
+        "fullCode": "B0 0190 - GC Supervision"
+      },
+      {
+        "label": "Stocker/Scrapper",
+        "hours": 200,
+        "fullCode": "B0 0195 - GC Stocker/Scrapper"
+      },
+      {
+        "label": "Demolition",
+        "hours": 120,
+        "fullCode": "B0 2100 - GC Demolition"
+      }
+    ]
+  },
+  {
+    "label": "Building 1 North",
+    "children": [
+      {
+        "label": "Ext Frame Layout",
+        "hours": 9,
+        "fullCode": "B1 5100 - Field House Bldg Ext Frame Layout"
+      },
+      {
+        "label": "Ext Track",
+        "hours": 26,
+        "fullCode": "B1 5250 - Field House Bldg Ext Track "
+      },
+      {
+        "label": "Ext Frame",
+        "hours": 57,
+        "fullCode": "B1 5400 - Field House Bldg Ext Frame "
+      },
+      {
+        "label": "Sheathing",
+        "hours": 70,
+        "fullCode": "B1 5450 - Field House Bldg Sheathing "
+      },
+      {
+        "label": "Ext Firetape",
+        "hours": 83,
+        "fullCode": "B1 5460 - Field House Bldg Ext Firetape "
+      },
+      {
+        "label": "Int Layout",
+        "hours": 11,
+        "fullCode": "B1 9200 - Field House Bldg Int Layout"
+      },
+      {
+        "label": "Int Frame",
+        "hours": 110,
+        "fullCode": "B1 9201 - Field House Bldg Int Frame "
+      },
+      {
+        "label": "Int Track",
+        "hours": 60,
+        "fullCode": "B1 9202 - Field House Bldg Int Track "
+      },
+      {
+        "label": "Int Backing",
+        "hours": 24,
+        "fullCode": "B1 9206 - Field House Bldg Int Backing "
+      },
+      {
+        "label": "Int Frame Ceilings",
+        "hours": 214,
+        "fullCode": "B1 9215 - Field House Bldg Int Frame Ceilings"
+      },
+      {
+        "label": "Drywall Top Out",
+        "hours": 146,
+        "fullCode": "B1 9240 - Field House Bldg Drywall Top Out "
+      },
+      {
+        "label": "Drywall Hang",
+        "hours": 73,
+        "fullCode": "B1 9250 - Field House Bldg Drywall Hang "
+      },
+      {
+        "label": "Ceiling Hang",
+        "hours": 23,
+        "fullCode": "B1 9255 - Field House Bldg Ceiling Hang "
+      },
+      {
+        "label": "Tape Walls",
+        "hours": 457,
+        "fullCode": "B1 9280 - Field House Bldg Tape Walls "
+      },
+      {
+        "label": "Tape Ceilings",
+        "hours": 77,
+        "fullCode": "B1 9285 - Field House Bldg Tape Ceilings "
+      }
+    ]
+  },
+  {
+    "label": "Building 2 South",
+    "children": [
+      {
+        "label": "Ext Frame Layout",
+        "hours": 0,
+        "fullCode": "B2 5100 - Softball Clubhouse Ext Frame Layout"
+      },
+      {
+        "label": "Ext Track",
+        "hours": 0,
+        "fullCode": "B2 5250 - Softball Clubhouse Ext Track "
+      },
+      {
+        "label": "Ext Frame",
+        "hours": 0,
+        "fullCode": "B2 5400 - Softball Clubhouse Ext Frame "
+      },
+      {
+        "label": "Sheathing",
+        "hours": 0,
+        "fullCode": "B2 5450 - Softball Clubhouse Sheathing "
+      },
+      {
+        "label": "Ext Firetape",
+        "hours": 0,
+        "fullCode": "B2 5460 - Softball Clubhouse Ext Firetape "
+      },
+      {
+        "label": "Int Layout",
+        "hours": 0,
+        "fullCode": "B2 9200 - Softball Clubhouse Int Layout"
+      },
+      {
+        "label": "Int Frame",
+        "hours": 0,
+        "fullCode": "B2 9201 - Softball Clubhouse Int Frame "
+      },
+      {
+        "label": "Int Track",
+        "hours": 0,
+        "fullCode": "B2 9202 - Softball Clubhouse Int Track "
+      },
+      {
+        "label": "Int Backing",
+        "hours": 0,
+        "fullCode": "B2 9206 - Softball Clubhouse Int Backing "
+      },
+      {
+        "label": "Int Frame Ceilings L",
+        "hours": 21,
+        "fullCode": "B2 9215 - Softball Clubhouse Int Frame Ceilings L"
+      },
+      {
+        "label": "Drywall Top Out",
+        "hours": 0,
+        "fullCode": "B2 9240 - Softball Clubhouse Drywall Top Out"
+      },
+      {
+        "label": "Drywall Hang",
+        "hours": 0,
+        "fullCode": "B2 9250 - Softball Clubhouse Drywall Hang "
+      },
+      {
+        "label": "Ceiling Hang",
+        "hours": 3,
+        "fullCode": "B2 9255 - Softball Clubhouse Ceiling Hang "
+      },
+      {
+        "label": "Tape Walls",
+        "hours": 0,
+        "fullCode": "B2 9280 - Softball Clubhouse Tape Walls "
+      },
+      {
+        "label": "Tape Ceilings",
+        "hours": 25,
+        "fullCode": "B2 9285 - Softball Clubhouse Tape Ceilings "
+      }
+    ]
+  },
+  {
+    "label": "Building 3",
+    "children": [
+      {
+        "label": "Ext Frame Layout",
+        "hours": 0,
+        "fullCode": "B3 5100 - Baseball Clubhouse Ext Frame Layout"
+      },
+      {
+        "label": "Ext Track",
+        "hours": 0,
+        "fullCode": "B3 5250 - Baseball Clubhouse Ext Track "
+      },
+      {
+        "label": "Ext Frame",
+        "hours": 0,
+        "fullCode": "B3 5400 - Baseball Clubhouse Ext Frame "
+      },
+      {
+        "label": "Sheathing",
+        "hours": 0,
+        "fullCode": "B3 5450 - Baseball Clubhouse Sheathing "
+      },
+      {
+        "label": "Ext Firetape",
+        "hours": 0,
+        "fullCode": "B3 5460 - Baseball Clubhouse Ext Firetape "
+      },
+      {
+        "label": "Int Layout",
+        "hours": 0,
+        "fullCode": "B3 9200 - Baseball Clubhouse Int Layout"
+      },
+      {
+        "label": "Int Frame",
+        "hours": 0,
+        "fullCode": "B3 9201 - Baseball Clubhouse Int Frame "
+      },
+      {
+        "label": "Int Track",
+        "hours": 0,
+        "fullCode": "B3 9202 - Baseball Clubhouse Int Track "
+      },
+      {
+        "label": "Int Backing",
+        "hours": 0,
+        "fullCode": "B3 9206 - Baseball Clubhouse Int Backing "
+      },
+      {
+        "label": "Int Frame Ceilings",
+        "hours": 23,
+        "fullCode": "B3 9215 - Baseball Clubhouse Int Frame Ceilings "
+      },
+      {
+        "label": "Drywall Top Out",
+        "hours": 0,
+        "fullCode": "B3 9240 - Baseball Clubhouse Drywall Top Out"
+      },
+      {
+        "label": "Drywall Hang",
+        "hours": 0,
+        "fullCode": "B3 9250 - Baseball Clubhouse Drywall Hang "
+      },
+      {
+        "label": "Ceiling Hang",
+        "hours": 3,
+        "fullCode": "B3 9255 - Baseball Clubhouse Ceiling Hang "
+      },
+      {
+        "label": "Tape Walls",
+        "hours": 0,
+        "fullCode": "B3 9280 - Baseball Clubhouse Tape Walls "
+      },
+      {
+        "label": "Tape Ceilings",
+        "hours": 27,
+        "fullCode": "B3 9285 - Baseball Clubhouse Tape Ceilings "
+      }
+    ]
+  },
+  {
+    "label": "Building 4",
+    "children": [
+      {
+        "label": "Ext Frame Layout",
+        "hours": 0,
+        "fullCode": "B4 5100 - Roof Ext Frame Layout"
+      },
+      {
+        "label": "Ext Track",
+        "hours": 0,
+        "fullCode": "B4 5250 - Roof Ext Track "
+      },
+      {
+        "label": "Ext Frame",
+        "hours": 0,
+        "fullCode": "B4 5400 - Roof Ext Frame "
+      },
+      {
+        "label": "Sheathing",
+        "hours": 0,
+        "fullCode": "B4 5450 - Roof Sheathing "
+      },
+      {
+        "label": "Ext Firetape",
+        "hours": 0,
+        "fullCode": "B4 5460 - Roof Ext Firetape "
+      },
+      {
+        "label": "Int Frame Ceilings",
+        "hours": 321,
+        "fullCode": "B4 9215 - Roof Int Frame Ceilings "
+      },
+      {
+        "label": "Ceiling Hang",
+        "hours": 30,
+        "fullCode": "B4 9255 - Roof Ceiling Hang "
+      },
+      {
+        "label": "Tape Ceilings",
+        "hours": 35,
+        "fullCode": "B4 9285 - Roof Tape Ceilings "
+      }
+    ]
+  }
+]

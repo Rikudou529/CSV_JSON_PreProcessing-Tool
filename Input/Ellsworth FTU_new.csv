@@ -1,0 +1,87 @@
+build,floor,area,hour,full,label
+,1st Floor,Area A & C,0,F1 AA&C 0140 - FL 1 Area A & C Equipment,Equipment
+,1st Floor,Area A & C,15,F1 AA&C 5390 - FL 1 Area A & C Ext Frame Layout,Ext Frame Layout
+,1st Floor,Area A & C,87,F1 AA&C 5400 - FL 1 Area A & C Ext Frame ,Ext Frame
+,1st Floor,Area A & C,33,F1 AA&C 5420 - FL 1 Area A & C Welding,Welding
+,1st Floor,Area A & C,103,F1 AA&C 5450 - FL 1 Area A & C Sheathing ,Sheathing
+,1st Floor,Area A & C,76,F1 AA&C 7100 - FL 1 Area A & C Ext Insulation ,Ext Insulation
+,1st Floor,Area A & C,84,F1 AA&C 7200 - FL 1 Area A & C Int Insulation ,Int Insulation
+,1st Floor,Area A & C,65,F1 AA&C 9200 - FL 1 Area A & C Int Layout,Int Layout
+,1st Floor,Area A & C,354,F1 AA&C 9201 - FL 1 Area A & C Int Frame ,Int Frame
+,1st Floor,Area A & C,36,F1 AA&C 9202 - FL 1 Area A & C Int Top Track ,Int Top Track
+,1st Floor,Area A & C,21,F1 AA&C 9203 - FL 1 Area A & C Int Shaft Wall ,Int Shaft Wall
+,1st Floor,Area A & C,144,F1 AA&C 9206 - FL 1 Area A & C Int Backing ,Int Backing
+,1st Floor,Area A & C,1,F1 AA&C 9215 - FL 1 Area A & C Int Frame Ceilings Lab,Int Frame Ceilings Lab
+,1st Floor,Area A & C,245,F1 AA&C 9240 - FL 1 Area A & C,
+,1st Floor,Area A & C,959,F1 AA&C 9250 - FL 1 Area A & C Drywall Hang ,Drywall Hang
+,1st Floor,Area A & C,0,F1 AA&C 9255 - FL 1 Area A & C Ceiling Hang ,Ceiling Hang
+,1st Floor,Area A & C,95,F1 AA&C 9265 - FL 1 Area A & C Ext Firetape ,Ext Firetape
+,1st Floor,Area A & C,1456,F1 AA&C 9280 - FL 1 Area A & C Tape Walls ,Tape Walls
+,1st Floor,Area A & C,1,F1 AA&C 9285 - FL 1 Area A & C Tape Ceilings ,Tape Ceilings
+,1st Floor,Area A & C,193,F1 AA&C 9450 - FL 1 Area A & C Grid ,Grid
+,1st Floor,Area A & C,96,F1 AA&C 9500 - FL 1 Area A & C Ceiling Tile ,Ceiling Tile
+,1st Floor,Area B & D,13,F1 AB&D 5390 - FL 1 Area B & D Ext Frame Layout,Ext Frame Layout
+,1st Floor,Area B & D,75,F1 AB&D 5400 - FL 1 Area B & D Ext Frame ,Ext Frame
+,1st Floor,Area B & D,28,F1 AB&D 5420 - FL 1 Area B & D Welding,Welding
+,1st Floor,Area B & D,89,F1 AB&D 5450 - FL 1 Area B & D Sheathing ,Sheathing
+,1st Floor,Area B & D,65,F1 AB&D 7100 - FL 1 Area B & D Ext Insulation ,Ext Insulation
+,1st Floor,Area B & D,113,F1 AB&D 7200 - FL 1 Area B & D Int Insulation ,Int Insulation
+,1st Floor,Area B & D,59,F1 AB&D 9200 - FL 1 Area B & D Int Layout,Int Layout
+,1st Floor,Area B & D,343,F1 AB&D 9201 - FL 1 Area B & D Int Frame ,Int Frame
+,1st Floor,Area B & D,1,F1 AB&D 9202 - FL 1 Area B & D Int Top Track ,Int Top Track
+,1st Floor,Area B & D,1,F1 AB&D 9203 - FL 1 Area B & D Int Shaft Wall ,Int Shaft Wall
+,1st Floor,Area B & D,131,F1 AB&D 9206 - FL 1 Area B & D Int Backing ,Int Backing
+,1st Floor,Area B & D,1,F1 AB&D 9215 - FL 1 Area B & D Int Frame Ceilings Lab,Int Frame Ceilings Lab
+,1st Floor,Area B & D,888,F1 AB&D 9250 - FL 1 Area B & D Drywall Hang ,Drywall Hang
+,1st Floor,Area B & D,0,F1 AB&D 9255 - FL 1 Area B & D Ceiling Hang ,Ceiling Hang
+,1st Floor,Area B & D,82,F1 AB&D 9265 - FL 1 Area B & D Ext Firetape ,Ext Firetape
+,1st Floor,Area B & D,1298,F1 AB&D 9280 - FL 1 Area B & D Tape Walls ,Tape Walls
+,1st Floor,Area B & D,1,F1 AB&D 9285 - FL 1 Area B & D Tape Ceilings ,Tape Ceilings
+,1st Floor,Area B & D,318,F1 AB&D 9450 - FL 1 Area B & D Grid ,Grid
+,1st Floor,Area B & D,159,F1 AB&D 9500 - FL 1 Area B & D Ceiling Tile ,Ceiling Tile
+,2nd Floor,Area A & C,13,F2 AA&C 5390 - FL 2 Area A & C Ext Frame Layout,Ext Frame Layout
+,2nd Floor,Area A & C,75,F2 AA&C 5400 - FL 2 Area A & C Ext Frame ,Ext Frame
+,2nd Floor,Area A & C,28,F2 AA&C 5420 - FL 2 Area A & C Welding,Welding
+,2nd Floor,Area A & C,89,F2 AA&C 5450 - FL 2 Area A & C Sheathing ,Sheathing
+,2nd Floor,Area A & C,66,F2 AA&C 7100 - FL 2 Area A & C Ext Insulation ,Ext Insulation
+,2nd Floor,Area A & C,101,F2 AA&C 7200 - FL 2 Area A & C Int Insulation ,Int Insulation
+,2nd Floor,Area A & C,61,F2 AA&C 9200 - FL 2 Area A & C Int Layout,Int Layout
+,2nd Floor,Area A & C,326,F2 AA&C 9201 - FL 2 Area A & C Int Frame ,Int Frame
+,2nd Floor,Area A & C,49,F2 AA&C 9202 - FL 2 Area A & C Int Top Track ,Int Top Track
+,2nd Floor,Area A & C,21,F2 AA&C 9203 - FL 2 Area A & C Int Shaft Wall ,Int Shaft Wall
+,2nd Floor,Area A & C,136,F2 AA&C 9206 - FL 2 Area A & C Int Backing ,Int Backing
+,2nd Floor,Area A & C,1,F2 AA&C 9215 - FL 2 Area A & C Int Frame Ceilings Lab,Int Frame Ceilings Lab
+,2nd Floor,Area A & C,914,F2 AA&C 9250 - FL 2 Area A & C Drywall Hang ,Drywall Hang
+,2nd Floor,Area A & C,0,F2 AA&C 9255 - FL 2 Area A & C Ceiling Hang ,Ceiling Hang
+,2nd Floor,Area A & C,82,F2 AA&C 9265 - FL 2 Area A & C Ext Firetape ,Ext Firetape
+,2nd Floor,Area A & C,1303,F2 AA&C 9280 - FL 2 Area A & C Tape Walls ,Tape Walls
+,2nd Floor,Area A & C,1,F2 AA&C 9285 - FL 2 Area A & C Tape Ceilings ,Tape Ceilings
+,2nd Floor,Area A & C,345,F2 AA&C 9450 - FL 2 Area A & C Grid ,Grid
+,2nd Floor,Area A & C,172,F2 AA&C 9500 - FL 2 Area A & C Ceiling Tile ,Ceiling Tile
+,2nd Floor,Area B & D,0,F2 AB&D 0140 - FL 2 Area B & D Equipment,Equipment
+,2nd Floor,Area B & D,14,F2 AB&D 5390 - FL 2 Area B & D Ext Frame Layout,Ext Frame Layout
+,2nd Floor,Area B & D,79,F2 AB&D 5400 - FL 2 Area B & D Ext Frame ,Ext Frame
+,2nd Floor,Area B & D,30,F2 AB&D 5420 - FL 2 Area B & D Welding,Welding
+,2nd Floor,Area B & D,95,F2 AB&D 5450 - FL 2 Area B & D Sheathing ,Sheathing
+,2nd Floor,Area B & D,70,F2 AB&D 7100 - FL 2 Area B & D Ext Insulation ,Ext Insulation
+,2nd Floor,Area B & D,62,F2 AB&D 7200 - FL 2 Area B & D Int Insulation ,Int Insulation
+,2nd Floor,Area B & D,81,F2 AB&D 9200 - FL 2 Area B & D Int Layout,Int Layout
+,2nd Floor,Area B & D,408,F2 AB&D 9201 - FL 2 Area B & D Int Frame ,Int Frame
+,2nd Floor,Area B & D,102,F2 AB&D 9202 - FL 2 Area B & D Int Top Track ,Int Top Track
+,2nd Floor,Area B & D,1,F2 AB&D 9203 - FL 2 Area B & D Int Shaft Wall ,Int Shaft Wall
+,2nd Floor,Area B & D,180,F2 AB&D 9206 - FL 2 Area B & D Int Backing ,Int Backing
+,2nd Floor,Area B & D,1,F2 AB&D 9215 - FL 2 Area B & D Int Frame Ceilings Lab,Int Frame Ceilings Lab
+,2nd Floor,Area B & D,1126,F2 AB&D 9250 - FL 2 Area B & D Drywall Hang ,Drywall Hang
+,2nd Floor,Area B & D,0,F2 AB&D 9255 - FL 2 Area B & D Ceiling Hang ,Ceiling Hang
+,2nd Floor,Area B & D,87,F2 AB&D 9265 - FL 2 Area B & D Ext Firetape ,Ext Firetape
+,2nd Floor,Area B & D,1596,F2 AB&D 9280 - FL 2 Area B & D Tape Walls ,Tape Walls
+,2nd Floor,Area B & D,1,F2 AB&D 9285 - FL 2 Area B & D Tape Ceilings ,Tape Ceilings
+,2nd Floor,Area B & D,373,F2 AB&D 9450 - FL 2 Area B & D Grid ,Grid
+,2nd Floor,Area B & D,187,F2 AB&D 9500 - FL 2 Area B & D Ceiling Tile ,Ceiling Tile
+,Door,,1,FD FD 8800 - Door Frames Door Frames Door/Frames/Ha,Door Frames Door Frames Door/Frames/Ha
+,Ext,Ext,897,FX AX 5400 - Ext Ext Ext Frame ,Ext Frame
+,Ext,Ext,816,FX AX 7200 - Ext Ext Int Insulation ,Int Insulation
+,Ext,Ext,1973,FX AX 9215 - Ext Ext Int Frame Ceilings L,Int Frame Ceilings L
+,Ext,Ext,1750,FX AX 9255 - Ext Ext Ceiling Hang ,Ceiling Hang
+Building 0,Phase 0,General Conditions,2100,B0 F0 A0 0190 - Supervision,Supervision
+Building 0,Phase 0,General Conditions,1400,B0 F0 A0 0195 - Stocker Scrapper,Stocker Scrapper

@@ -1,0 +1,56 @@
+B0 0190 - GC Supervision,212
+B0 0195 - GC Stocker/Scrapper,200
+B0 2100 - GC Demolition,120
+B1 5100 - Field House Bldg Ext Frame Layout,9
+B1 5250 - Field House Bldg Ext Track ,26
+B1 5400 - Field House Bldg Ext Frame ,57
+B1 5450 - Field House Bldg Sheathing ,70
+B1 5460 - Field House Bldg Ext Firetape ,83
+B1 9200 - Field House Bldg Int Layout,11
+B1 9201 - Field House Bldg Int Frame ,110
+B1 9202 - Field House Bldg Int Track ,60
+B1 9206 - Field House Bldg Int Backing ,24
+B1 9215 - Field House Bldg Int Frame Ceilings,214
+B1 9240 - Field House Bldg Drywall Top Out ,146
+B1 9250 - Field House Bldg Drywall Hang ,73
+B1 9255 - Field House Bldg Ceiling Hang ,23
+B1 9280 - Field House Bldg Tape Walls ,457
+B1 9285 - Field House Bldg Tape Ceilings ,77
+B2 5100 - Softball Clubhouse Ext Frame Layout,0
+B2 5250 - Softball Clubhouse Ext Track ,0
+B2 5400 - Softball Clubhouse Ext Frame ,0
+B2 5450 - Softball Clubhouse Sheathing ,0
+B2 5460 - Softball Clubhouse Ext Firetape ,0
+B2 9200 - Softball Clubhouse Int Layout,0
+B2 9201 - Softball Clubhouse Int Frame ,0
+B2 9202 - Softball Clubhouse Int Track ,0
+B2 9206 - Softball Clubhouse Int Backing ,0
+B2 9215 - Softball Clubhouse Int Frame Ceilings L,21
+B2 9240 - Softball Clubhouse Drywall Top Out,0
+B2 9250 - Softball Clubhouse Drywall Hang ,0
+B2 9255 - Softball Clubhouse Ceiling Hang ,3
+B2 9280 - Softball Clubhouse Tape Walls ,0
+B2 9285 - Softball Clubhouse Tape Ceilings ,25
+B3 5100 - Baseball Clubhouse Ext Frame Layout,0
+B3 5250 - Baseball Clubhouse Ext Track ,0
+B3 5400 - Baseball Clubhouse Ext Frame ,0
+B3 5450 - Baseball Clubhouse Sheathing ,0
+B3 5460 - Baseball Clubhouse Ext Firetape ,0
+B3 9200 - Baseball Clubhouse Int Layout,0
+B3 9201 - Baseball Clubhouse Int Frame ,0
+B3 9202 - Baseball Clubhouse Int Track ,0
+B3 9206 - Baseball Clubhouse Int Backing ,0
+B3 9215 - Baseball Clubhouse Int Frame Ceilings ,23
+B3 9240 - Baseball Clubhouse Drywall Top Out,0
+B3 9250 - Baseball Clubhouse Drywall Hang ,0
+B3 9255 - Baseball Clubhouse Ceiling Hang ,3
+B3 9280 - Baseball Clubhouse Tape Walls ,0
+B3 9285 - Baseball Clubhouse Tape Ceilings ,27
+B4 5100 - Roof Ext Frame Layout,0
+B4 5250 - Roof Ext Track ,0
+B4 5400 - Roof Ext Frame ,0
+B4 5450 - Roof Sheathing ,0
+B4 5460 - Roof Ext Firetape ,0
+B4 9215 - Roof Int Frame Ceilings ,321
+B4 9255 - Roof Ceiling Hang ,30
+B4 9285 - Roof Tape Ceilings ,35

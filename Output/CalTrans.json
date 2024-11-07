@@ -1,0 +1,312 @@
+[
+  {
+    "label": "Area A",
+    "children": [
+      {
+        "label": "Demolition",
+        "hours": 2435,
+        "fullCode": "AA 2100 - Area A Demolition"
+      },
+      {
+        "label": "Ext Frame Layout",
+        "hours": 584,
+        "fullCode": "AA 5100 - Area A Ext Frame Layout"
+      },
+      {
+        "label": "Ext Track Labor",
+        "hours": 1669,
+        "fullCode": "AA 5250 - Area A Ext Track Labor"
+      },
+      {
+        "label": "Ext Frame Labor",
+        "hours": 3635,
+        "fullCode": "AA 5400 - Area A Ext Frame Labor"
+      },
+      {
+        "label": "Sheathing Labor",
+        "hours": 2378,
+        "fullCode": "AA 5450 - Area A Sheathing Labor"
+      },
+      {
+        "label": "Ext Firetape Labor",
+        "hours": 3272,
+        "fullCode": "AA 5460 - Area A Ext Firetape Labor"
+      },
+      {
+        "label": "Ext Insulation Labor",
+        "hours": 2153,
+        "fullCode": "AA 7100 - Area A Ext Insulation Labor"
+      },
+      {
+        "label": "Int Insulation Labor",
+        "hours": 3579,
+        "fullCode": "AA 7200 - Area A Int Insulation Labor"
+      },
+      {
+        "label": "Int Layout",
+        "hours": 909,
+        "fullCode": "AA 9200 - Area A Int Layout"
+      },
+      {
+        "label": "Int Frame Labor",
+        "hours": 11479,
+        "fullCode": "AA 9201 - Area A Int Frame Labor"
+      },
+      {
+        "label": "Int Track Labor",
+        "hours": 5193,
+        "fullCode": "AA 9202 - Area A Int Track Labor"
+      },
+      {
+        "label": "Int Backing Labor",
+        "hours": 2019,
+        "fullCode": "AA 9206 - Area A Int Backing Labor"
+      },
+      {
+        "label": "Drywall Top Out Labor",
+        "hours": 6543,
+        "fullCode": "AA 9240 - Area A Drywall Top Out Labor"
+      },
+      {
+        "label": "Drywall Hang Labor",
+        "hours": 6350,
+        "fullCode": "AA 9250 - Area A Drywall Hang Labor"
+      },
+      {
+        "label": "Tape Walls Labor",
+        "hours": 21249,
+        "fullCode": "AA 9280 - Area A Tape Walls Labor"
+      }
+    ]
+  },
+  {
+    "label": "Area B",
+    "children": [
+      {
+        "label": "Demolition",
+        "hours": 1992,
+        "fullCode": "AB 2100 - Area B Demolition"
+      },
+      {
+        "label": "Ext Frame Layout",
+        "hours": 461,
+        "fullCode": "AB 5100 - Area B Ext Frame Layout"
+      },
+      {
+        "label": "Ext Track Labor",
+        "hours": 1316,
+        "fullCode": "AB 5250 - Area B Ext Track Labor"
+      },
+      {
+        "label": "Ext Frame Labor",
+        "hours": 2866,
+        "fullCode": "AB 5400 - Area B Ext Frame Labor"
+      },
+      {
+        "label": "Sheathing Labor",
+        "hours": 1874,
+        "fullCode": "AB 5450 - Area B Sheathing Labor"
+      },
+      {
+        "label": "Ext Firetape Labor",
+        "hours": 2579,
+        "fullCode": "AB 5460 - Area B Ext Firetape Labor"
+      },
+      {
+        "label": "Ext Insulation Labor",
+        "hours": 1697,
+        "fullCode": "AB 7100 - Area B Ext Insulation Labor"
+      },
+      {
+        "label": "Int Insulation Labor",
+        "hours": 3318,
+        "fullCode": "AB 7200 - Area B Int Insulation Labor"
+      },
+      {
+        "label": "Int Layout",
+        "hours": 970,
+        "fullCode": "AB 9200 - Area B Int Layout"
+      },
+      {
+        "label": "Int Frame Labor",
+        "hours": 12845,
+        "fullCode": "AB 9201 - Area B Int Frame Labor"
+      },
+      {
+        "label": "Int Track Labor",
+        "hours": 5545,
+        "fullCode": "AB 9202 - Area B Int Track Labor"
+      },
+      {
+        "label": "Int Shaft Wall Labor",
+        "hours": 2364,
+        "fullCode": "AB 9203 - Area B Int Shaft Wall Labor"
+      },
+      {
+        "label": "Int Backing Labor",
+        "hours": 2156,
+        "fullCode": "AB 9206 - Area B Int Backing Labor"
+      },
+      {
+        "label": "Drywall Top Out Labor",
+        "hours": 6585,
+        "fullCode": "AB 9240 - Area B Drywall Top Out Labor"
+      },
+      {
+        "label": "Drywall Hang Labor",
+        "hours": 6305,
+        "fullCode": "AB 9250 - Area B Drywall Hang Labor"
+      },
+      {
+        "label": "Tape Walls Labor",
+        "hours": 21186,
+        "fullCode": "AB 9280 - Area B Tape Walls Labor"
+      }
+    ]
+  },
+  {
+    "label": "Area C",
+    "children": [
+      {
+        "label": "Demolition",
+        "hours": 2324,
+        "fullCode": "AC 2100 - Area C Demolition"
+      },
+      {
+        "label": "Ext Frame Layout",
+        "hours": 605,
+        "fullCode": "AC 5100 - Area C Ext Frame Layout"
+      },
+      {
+        "label": "Ext Track Labor",
+        "hours": 1729,
+        "fullCode": "AC 5250 - Area C Ext Track Labor"
+      },
+      {
+        "label": "Ext Frame Labor",
+        "hours": 3765,
+        "fullCode": "AC 5400 - Area C Ext Frame Labor"
+      },
+      {
+        "label": "Sheathing Labor",
+        "hours": 2462,
+        "fullCode": "AC 5450 - Area C Sheathing Labor"
+      },
+      {
+        "label": "Ext Firetape Labor",
+        "hours": 3388,
+        "fullCode": "AC 5460 - Area C Ext Firetape Labor"
+      },
+      {
+        "label": "Ext Insulation Labor",
+        "hours": 2230,
+        "fullCode": "AC 7100 - Area C Ext Insulation Labor"
+      },
+      {
+        "label": "Int Insulation Labor",
+        "hours": 3501,
+        "fullCode": "AC 7200 - Area C Int Insulation Labor"
+      },
+      {
+        "label": "Int Layout",
+        "hours": 1154,
+        "fullCode": "AC 9200 - Area C Int Layout"
+      },
+      {
+        "label": "Int Frame Labor",
+        "hours": 12580,
+        "fullCode": "AC 9201 - Area C Int Frame Labor"
+      },
+      {
+        "label": "Int Track Labor",
+        "hours": 6571,
+        "fullCode": "AC 9202 - Area C Int Track Labor"
+      },
+      {
+        "label": "Int Backing Labor",
+        "hours": 2564,
+        "fullCode": "AC 9206 - Area C Int Backing Labor"
+      },
+      {
+        "label": "Int Frame Ceilings Labor",
+        "hours": 16816,
+        "fullCode": "AC 9215 - Area C Int Frame Ceilings Labor"
+      },
+      {
+        "label": "Drywall Top Out Labor",
+        "hours": 6626,
+        "fullCode": "AC 9240 - Area C Drywall Top Out Labor"
+      },
+      {
+        "label": "Drywall Hang Labor",
+        "hours": 7858,
+        "fullCode": "AC 9250 - Area C Drywall Hang Labor"
+      },
+      {
+        "label": "Ceiling Hang Labor",
+        "hours": 1575,
+        "fullCode": "AC 9255 - Area C Ceiling Hang Labor"
+      },
+      {
+        "label": "Tape Walls Labor",
+        "hours": 24026,
+        "fullCode": "AC 9280 - Area C Tape Walls Labor"
+      },
+      {
+        "label": "Tape Ceilings Labor",
+        "hours": 1838,
+        "fullCode": "AC 9285 - Area C Tape Ceilings Labor"
+      }
+    ]
+  },
+  {
+    "label": "Area D",
+    "children": [
+      {
+        "label": "Badging/Fingerprinting",
+        "hours": 430,
+        "fullCode": "AD 0111 - Alt 2 Badging/Fingerprinting"
+      },
+      {
+        "label": "Supervision",
+        "hours": 1515,
+        "fullCode": "AD 0190 - Alt 2 Supervision"
+      },
+      {
+        "label": "Stocker/Scrapper",
+        "hours": 590,
+        "fullCode": "AD 0195 - Alt 2 Stocker/Scrapper"
+      },
+      {
+        "label": "Sheathing Labor",
+        "hours": 8599,
+        "fullCode": "AD 5450 - Alt 2 Sheathing Labor"
+      },
+      {
+        "label": "Rough Carpentry Labor",
+        "hours": 13778,
+        "fullCode": "AD 6200 - Alt 2 Rough Carpentry Labor"
+      }
+    ]
+  },
+  {
+    "label": "General Conditions",
+    "children": [
+      {
+        "label": "Badging/Fingerprinti",
+        "hours": 2579,
+        "fullCode": "A0 0111 - GC Badging/Fingerprinti"
+      },
+      {
+        "label": "Supervision",
+        "hours": 17476,
+        "fullCode": "A0 0190 - GC Supervision"
+      },
+      {
+        "label": "Stocker/Scrapper",
+        "hours": 6806,
+        "fullCode": "A0 0195 - GC Stocker/Scrapper"
+      }
+    ]
+  }
+]

@@ -1,0 +1,321 @@
+B1 F01 AA 5400 - N FL 01 Area A Int Ext Frame,12
+B1 F01 AA 7200 - N FL 01 Area A Int Int Insul,67
+B1 F01 AA 9200 - N FL 01 Area A Int Int Layou,14
+B1 F01 AA 9201 - N FL 01 Area A Int Int Frame,60
+B1 F01 AA 9202 - N FL 01 Area A Int Int Top T,41
+B1 F01 AA 9203 - N FL 01 Area A Int Int Shaft,8
+B1 F01 AA 9206 - N FL 01 Area A Int Int Backi,29
+B1 F01 AA 9250 - N FL 01 Area A Int Drywall H,378
+B1 F01 AA 9270 - N FL 01 Area A Int Firetape ,79
+B1 F01 AA 9280 - N FL 01 Area A Int Tape Wall,211
+B1 F01 AB 5400 - N FL 01 Area B Int Ext Frame,10
+B1 F01 AB 7200 - N FL 01 Area B Int Int Insul,65
+B1 F01 AB 9200 - N FL 01 Area B Int Int Layou,17
+B1 F01 AB 9201 - N FL 01 Area B Int Int Frame,76
+B1 F01 AB 9202 - N FL 01 Area B Int Int Top T,49
+B1 F01 AB 9206 - N FL 01 Area B Int Int Backi,35
+B1 F01 AB 9250 - N FL 01 Area B Int Drywall H,290
+B1 F01 AB 9270 - N FL 01 Area B Int Firetape ,97
+B1 F01 AB 9280 - N FL 01 Area B Int Tape Wall,216
+B1 F01 AE 5390 - N FL 01 Area A Ext Ext ,4
+B1 F01 AE 5400 - N FL 01 Area A Ext Ext Frame,48
+B1 F01 AE 5450 - N FL 01 Area A Ext Sheathing,33
+B1 F01 AE 7100 - N FL 01 Area A Ext Ext Insul,26
+B1 F01 AE 9250 - N FL 01 Area A Ext Drywall H,44
+B1 F01 AE 9265 - N FL 01 Area A Ext Ext Firet,33
+B1 F01 AE 9270 - N FL 01 Area A Ext Firetape ,12
+B1 F01 AE 9280 - N FL 01 Area A Ext Tape Wall,27
+B1 F01 AF 5390 - N FL 01 Area B Ext Ext ,4
+B1 F01 AF 5400 - N FL 01 Area B Ext Ext Frame,44
+B1 F01 AF 5450 - N FL 01 Area B Ext Sheathing,30
+B1 F01 AF 7100 - N FL 01 Area B Ext Ext Insul,24
+B1 F01 AF 9250 - N FL 01 Area B Ext Drywall H,37
+B1 F01 AF 9265 - N FL 01 Area B Ext Ext Firet,30
+B1 F01 AF 9270 - N FL 01 Area B Ext Firetape ,11
+B1 F01 AF 9280 - N FL 01 Area B Ext Tape Wall,24
+B1 F02 AA 5400 - N FL 02 Area A Int Ext Frame,18
+B1 F02 AA 7200 - N FL 02 Area A Int Int Insul,94
+B1 F02 AA 9200 - N FL 02 Area A Int Int Layou,23
+B1 F02 AA 9201 - N FL 02 Area A Int Int Frame,180
+B1 F02 AA 9202 - N FL 02 Area A Int Int Top T,65
+B1 F02 AA 9203 - N FL 02 Area A Int Int Shaft,13
+B1 F02 AA 9206 - N FL 02 Area A Int Int Backi,45
+B1 F02 AA 9250 - N FL 02 Area A Int Drywall H,573
+B1 F02 AA 9270 - N FL 02 Area A Int Firetape ,114
+B1 F02 AA 9280 - N FL 02 Area A Int Tape Wall,338
+B1 F02 AB 5400 - N FL 02 Area B Int Ext Frame,10
+B1 F02 AB 7200 - N FL 02 Area B Int Int Insul,39
+B1 F02 AB 9200 - N FL 02 Area B Int Int Layou,12
+B1 F02 AB 9201 - N FL 02 Area B Int Int Frame,114
+B1 F02 AB 9202 - N FL 02 Area B Int Int Top T,34
+B1 F02 AB 9206 - N FL 02 Area B Int Int Backi,24
+B1 F02 AB 9250 - N FL 02 Area B Int Drywall H,190
+B1 F02 AB 9270 - N FL 02 Area B Int Firetape ,64
+B1 F02 AB 9280 - N FL 02 Area B Int Tape Wall,140
+B1 F02 AE 5390 - N FL 02 Area A Ext Ext ,5
+B1 F02 AE 5400 - N FL 02 Area A Ext Ext Frame,63
+B1 F02 AE 5450 - N FL 02 Area A Ext Sheathing,42
+B1 F02 AE 7100 - N FL 02 Area A Ext Ext Insul,34
+B1 F02 AE 9250 - N FL 02 Area A Ext Drywall H,56
+B1 F02 AE 9265 - N FL 02 Area A Ext Ext Firet,43
+B1 F02 AE 9270 - N FL 02 Area A Ext Firetape ,16
+B1 F02 AE 9280 - N FL 02 Area A Ext Tape Wall,35
+B1 F02 AF 5390 - N FL 02 Area B Ext Ext ,5
+B1 F02 AF 5400 - N FL 02 Area B Ext Ext Frame,58
+B1 F02 AF 5450 - N FL 02 Area B Ext Sheathing,39
+B1 F02 AF 7100 - N FL 02 Area B Ext Ext Insul,31
+B1 F02 AF 9250 - N FL 02 Area B Ext Drywall H,48
+B1 F02 AF 9265 - N FL 02 Area B Ext Ext Firet,39
+B1 F02 AF 9270 - N FL 02 Area B Ext Firetape ,14
+B1 F02 AF 9280 - N FL 02 Area B Ext Tape Wall,32
+B1 F03 AA 5400 - N FL 03 Area A Int Ext Frame,17
+B1 F03 AA 7200 - N FL 03 Area A Int Int Insul,82
+B1 F03 AA 9200 - N FL 03 Area A Int Int Layou,20
+B1 F03 AA 9201 - N FL 03 Area A Int Int Frame,193
+B1 F03 AA 9202 - N FL 03 Area A Int Int Top T,57
+B1 F03 AA 9203 - N FL 03 Area A Int Int Shaft,17
+B1 F03 AA 9206 - N FL 03 Area A Int Int Backi,40
+B1 F03 AA 9250 - N FL 03 Area A Int Drywall H,434
+B1 F03 AA 9270 - N FL 03 Area A Int Firetape ,109
+B1 F03 AA 9280 - N FL 03 Area A Int Tape Wall,264
+B1 F03 AB 5400 - N FL 03 Area B Int Ext Frame,8
+B1 F03 AB 7200 - N FL 03 Area B Int Int Insul,61
+B1 F03 AB 9200 - N FL 03 Area B Int Int Layou,16
+B1 F03 AB 9201 - N FL 03 Area B Int Int Frame,175
+B1 F03 AB 9202 - N FL 03 Area B Int Int Top T,45
+B1 F03 AB 9206 - N FL 03 Area B Int Int Backi,31
+B1 F03 AB 9250 - N FL 03 Area B Int Drywall H,248
+B1 F03 AB 9270 - N FL 03 Area B Int Firetape ,90
+B1 F03 AB 9280 - N FL 03 Area B Int Tape Wall,192
+B1 F03 AE 5390 - N FL 03 Area A Ext Ext ,4
+B1 F03 AE 5400 - N FL 03 Area A Ext Ext Frame,51
+B1 F03 AE 5450 - N FL 03 Area A Ext Sheathing,35
+B1 F03 AE 7100 - N FL 03 Area A Ext Ext Insul,28
+B1 F03 AE 9250 - N FL 03 Area A Ext Drywall H,49
+B1 F03 AE 9265 - N FL 03 Area A Ext Ext Firet,35
+B1 F03 AE 9270 - N FL 03 Area A Ext Firetape ,13
+B1 F03 AE 9280 - N FL 03 Area A Ext Tape Wall,28
+B1 F03 AF 5390 - N FL 03 Area B Ext Ext ,5
+B1 F03 AF 5400 - N FL 03 Area B Ext Ext Frame,55
+B1 F03 AF 5450 - N FL 03 Area B Ext Sheathing,37
+B1 F03 AF 7100 - N FL 03 Area B Ext Ext Insul,30
+B1 F03 AF 9201 - N FL 03 Area B Ext Int Frame,12
+B1 F03 AF 9250 - N FL 03 Area B Ext Drywall H,46
+B1 F03 AF 9265 - N FL 03 Area B Ext Ext Firet,37
+B1 F03 AF 9270 - N FL 03 Area B Ext Firetape ,14
+B1 F03 AF 9280 - N FL 03 Area B Ext Tape Wall,31
+B1 F04 AA 5400 - N FL 04 Area A Int Ext Frame,16
+B1 F04 AA 7200 - N FL 04 Area A Int Int Insul,80
+B1 F04 AA 9200 - N FL 04 Area A Int Int Layou,20
+B1 F04 AA 9201 - N FL 04 Area A Int Int Frame,198
+B1 F04 AA 9202 - N FL 04 Area A Int Int Top T,58
+B1 F04 AA 9203 - N FL 04 Area A Int Int Shaft,12
+B1 F04 AA 9206 - N FL 04 Area A Int Int Backi,40
+B1 F04 AA 9250 - N FL 04 Area A Int Drywall H,419
+B1 F04 AA 9270 - N FL 04 Area A Int Firetape ,110
+B1 F04 AA 9280 - N FL 04 Area A Int Tape Wall,265
+B1 F04 AB 5400 - N FL 04 Area B Int Ext Frame,8
+B1 F04 AB 7200 - N FL 04 Area B Int Int Insul,57
+B1 F04 AB 9200 - N FL 04 Area B Int Int Layou,15
+B1 F04 AB 9201 - N FL 04 Area B Int Int Frame,164
+B1 F04 AB 9202 - N FL 04 Area B Int Int Top T,42
+B1 F04 AB 9206 - N FL 04 Area B Int Int Backi,30
+B1 F04 AB 9250 - N FL 04 Area B Int Drywall H,234
+B1 F04 AB 9270 - N FL 04 Area B Int Firetape ,85
+B1 F04 AB 9280 - N FL 04 Area B Int Tape Wall,181
+B1 F04 AE 5390 - N FL 04 Area A Ext Ext ,4
+B1 F04 AE 5400 - N FL 04 Area A Ext Ext Frame,51
+B1 F04 AE 5450 - N FL 04 Area A Ext Sheathing,35
+B1 F04 AE 7100 - N FL 04 Area A Ext Ext Insul,28
+B1 F04 AE 9250 - N FL 04 Area A Ext Drywall H,49
+B1 F04 AE 9265 - N FL 04 Area A Ext Ext Firet,35
+B1 F04 AE 9270 - N FL 04 Area A Ext Firetape ,13
+B1 F04 AE 9280 - N FL 04 Area A Ext Tape Wall,29
+B1 F04 AF 5390 - N FL 04 Area B Ext Ext ,5
+B1 F04 AF 5400 - N FL 04 Area B Ext Ext Frame,55
+B1 F04 AF 5450 - N FL 04 Area B Ext Sheathing,37
+B1 F04 AF 7100 - N FL 04 Area B Ext Ext Insul,30
+B1 F04 AF 9201 - N FL 04 Area B Ext Int Frame,21
+B1 F04 AF 9250 - N FL 04 Area B Ext Drywall H,46
+B1 F04 AF 9265 - N FL 04 Area B Ext Ext Firet,37
+B1 F04 AF 9270 - N FL 04 Area B Ext Firetape ,14
+B1 F04 AF 9280 - N FL 04 Area B Ext Tape Wall,31
+B2 F01 AC 5400 - S FL 01 Area C Int Ext Frame,44
+B2 F01 AC 7200 - S FL 01 Area C Int Int Insul,93
+B2 F01 AC 9200 - S FL 01 Area C Int Int Layou,25
+B2 F01 AC 9201 - S FL 01 Area C Int Int Frame,109
+B2 F01 AC 9202 - S FL 01 Area C Int Int Top T,72
+B2 F01 AC 9203 - S FL 01 Area C Int Int Shaft,25
+B2 F01 AC 9206 - S FL 01 Area C Int Int Backi,51
+B2 F01 AC 9250 - S FL 01 Area C Int Drywall H,527
+B2 F01 AC 9270 - S FL 01 Area C Int Firetape ,160
+B2 F01 AC 9280 - S FL 01 Area C Int Tape Wall,300
+B2 F01 AD 5400 - S FL 01 Area D Int Ext Frame,23
+B2 F01 AD 7200 - S FL 01 Area D Int Int Insul,128
+B2 F01 AD 9200 - S FL 01 Area D Int Int Layou,33
+B2 F01 AD 9201 - S FL 01 Area D Int Int Frame,304
+B2 F01 AD 9202 - S FL 01 Area D Int Int Top T,92
+B2 F01 AD 9206 - S FL 01 Area D Int Int Backi,60
+B2 F01 AD 9250 - S FL 01 Area D Int Drywall H,693
+B2 F01 AD 9270 - S FL 01 Area D Int Firetape ,175
+B2 F01 AD 9280 - S FL 01 Area D Int Tape Wall,558
+B2 F01 AG 5390 - S FL 01 Area C Ext Ext ,6
+B2 F01 AG 5400 - S FL 01 Area C Ext Ext Frame,71
+B2 F01 AG 5450 - S FL 01 Area C Ext Sheathing,40
+B2 F01 AG 7100 - S FL 01 Area C Ext Ext Insul,38
+B2 F01 AG 9250 - S FL 01 Area C Ext Drywall H,63
+B2 F01 AG 9265 - S FL 01 Area C Ext Ext Firet,40
+B2 F01 AG 9270 - S FL 01 Area C Ext Firetape ,18
+B2 F01 AG 9280 - S FL 01 Area C Ext Tape Wall,40
+B2 F01 AH 5390 - S FL 01 Area D Ext Ext ,4
+B2 F01 AH 5400 - S FL 01 Area D Ext Ext Frame,131
+B2 F01 AH 5450 - S FL 01 Area D Ext Sheathing,121
+B2 F01 AH 7100 - S FL 01 Area D Ext Ext Insul,98
+B2 F01 AH 9200 - S FL 01 Area D Ext Int Layou,6
+B2 F01 AH 9201 - S FL 01 Area D Ext Int Frame,98
+B2 F01 AH 9202 - S FL 01 Area D Ext Int Top T,29
+B2 F01 AH 9206 - S FL 01 Area D Ext Int Backi,12
+B2 F01 AH 9250 - S FL 01 Area D Ext Drywall H,127
+B2 F01 AH 9265 - S FL 01 Area D Ext Ext Firet,29
+B2 F01 AH 9270 - S FL 01 Area D Ext Firetape ,11
+B2 F01 AH 9280 - S FL 01 Area D Ext Tape Wall,150
+B2 F02 AC 5400 - S FL 02 Area C Int Ext Frame,22
+B2 F02 AC 7200 - S FL 02 Area C Int Int Insul,96
+B2 F02 AC 9200 - S FL 02 Area C Int Int Layou,25
+B2 F02 AC 9201 - S FL 02 Area C Int Int Frame,173
+B2 F02 AC 9202 - S FL 02 Area C Int Int Top T,71
+B2 F02 AC 9203 - S FL 02 Area C Int Int Shaft,32
+B2 F02 AC 9206 - S FL 02 Area C Int Int Backi,50
+B2 F02 AC 9250 - S FL 02 Area C Int Drywall H,553
+B2 F02 AC 9270 - S FL 02 Area C Int Firetape ,171
+B2 F02 AC 9280 - S FL 02 Area C Int Tape Wall,277
+B2 F02 AD 5400 - S FL 02 Area D Int Ext Frame,7
+B2 F02 AD 7200 - S FL 02 Area D Int Int Insul,88
+B2 F02 AD 9200 - S FL 02 Area D Int Int Layou,21
+B2 F02 AD 9201 - S FL 02 Area D Int Int Frame,189
+B2 F02 AD 9202 - S FL 02 Area D Int Int Top T,59
+B2 F02 AD 9203 - S FL 02 Area D Int Int Shaft,18
+B2 F02 AD 9206 - S FL 02 Area D Int Int Backi,41
+B2 F02 AD 9250 - S FL 02 Area D Int Drywall H,552
+B2 F02 AD 9270 - S FL 02 Area D Int Firetape ,94
+B2 F02 AD 9280 - S FL 02 Area D Int Tape Wall,356
+B2 F02 AG 5390 - S FL 02 Area C Ext Ext ,5
+B2 F02 AG 5400 - S FL 02 Area C Ext Ext Frame,57
+B2 F02 AG 5450 - S FL 02 Area C Ext Sheathing,39
+B2 F02 AG 7100 - S FL 02 Area C Ext Ext Insul,31
+B2 F02 AG 9250 - S FL 02 Area C Ext Drywall H,51
+B2 F02 AG 9265 - S FL 02 Area C Ext Ext Firet,39
+B2 F02 AG 9270 - S FL 02 Area C Ext Firetape ,14
+B2 F02 AG 9280 - S FL 02 Area C Ext Tape Wall,32
+B2 F02 AH 5390 - S FL 02 Area D Ext Ext ,6
+B2 F02 AH 5400 - S FL 02 Area D Ext Ext Frame,112
+B2 F02 AH 5450 - S FL 02 Area D Ext Sheathing,50
+B2 F02 AH 7100 - S FL 02 Area D Ext Ext Insul,40
+B2 F02 AH 9250 - S FL 02 Area D Ext Drywall H,64
+B2 F02 AH 9265 - S FL 02 Area D Ext Ext Firet,51
+B2 F02 AH 9270 - S FL 02 Area D Ext Firetape ,19
+B2 F02 AH 9280 - S FL 02 Area D Ext Tape Wall,41
+B2 F03 AC 7200 - S FL 03 Area C Int Int Insul,94
+B2 F03 AC 9200 - S FL 03 Area C Int Int Layou,24
+B2 F03 AC 9201 - S FL 03 Area C Int Int Frame,193
+B2 F03 AC 9202 - S FL 03 Area C Int Int Top T,68
+B2 F03 AC 9203 - S FL 03 Area C Int Int Shaft,34
+B2 F03 AC 9206 - S FL 03 Area C Int Int Backi,48
+B2 F03 AC 9250 - S FL 03 Area C Int Drywall H,529
+B2 F03 AC 9270 - S FL 03 Area C Int Firetape ,167
+B2 F03 AC 9280 - S FL 03 Area C Int Tape Wall,258
+B2 F03 AD 5400 - S FL 03 Area D Int Ext Frame,7
+B2 F03 AD 7200 - S FL 03 Area D Int Int Insul,51
+B2 F03 AD 9200 - S FL 03 Area D Int Int Layou,11
+B2 F03 AD 9201 - S FL 03 Area D Int Int Frame,71
+B2 F03 AD 9202 - S FL 03 Area D Int Int Top T,32
+B2 F03 AD 9203 - S FL 03 Area D Int Int Shaft,25
+B2 F03 AD 9206 - S FL 03 Area D Int Int Backi,23
+B2 F03 AD 9250 - S FL 03 Area D Int Drywall H,313
+B2 F03 AD 9270 - S FL 03 Area D Int Firetape ,54
+B2 F03 AD 9280 - S FL 03 Area D Int Tape Wall,189
+B2 F03 AG 5390 - S FL 03 Area C Ext Ext ,4
+B2 F03 AG 5400 - S FL 03 Area C Ext Ext Frame,48
+B2 F03 AG 5450 - S FL 03 Area C Ext Sheathing,32
+B2 F03 AG 7100 - S FL 03 Area C Ext Ext Insul,26
+B2 F03 AG 9250 - S FL 03 Area C Ext Drywall H,43
+B2 F03 AG 9265 - S FL 03 Area C Ext Ext Firet,32
+B2 F03 AG 9270 - S FL 03 Area C Ext Firetape ,12
+B2 F03 AG 9280 - S FL 03 Area C Ext Tape Wall,27
+B2 F03 AH 5400 - S FL 03 Area D Ext Ext Frame,59
+B2 F03 AH 5450 - S FL 03 Area D Ext Sheathing,40
+B2 F03 AH 7100 - S FL 03 Area D Ext Ext Insul,32
+B2 F03 AH 9201 - S FL 03 Area D Ext Int Frame,4
+B2 F03 AH 9250 - S FL 03 Area D Ext Drywall H,57
+B2 F03 AH 9265 - S FL 03 Area D Ext Ext Firet,40
+B2 F03 AH 9270 - S FL 03 Area D Ext Firetape ,15
+B2 F03 AH 9280 - S FL 03 Area D Ext Tape Wall,33
+B2 F04 AC 5400 - S FL 04 Area C Int Ext Frame,24
+B2 F04 AC 7200 - S FL 04 Area C Int Int Insul,103
+B2 F04 AC 9200 - S FL 04 Area C Int Int Layou,28
+B2 F04 AC 9201 - S FL 04 Area C Int Int Frame,240
+B2 F04 AC 9202 - S FL 04 Area C Int Int Top T,80
+B2 F04 AC 9203 - S FL 04 Area C Int Int Shaft,23
+B2 F04 AC 9206 - S FL 04 Area C Int Int Backi,56
+B2 F04 AC 9250 - S FL 04 Area C Int Drywall H,586
+B2 F04 AC 9270 - S FL 04 Area C Int Firetape ,189
+B2 F04 AC 9280 - S FL 04 Area C Int Tape Wall,309
+B2 F04 AD 5400 - S FL 04 Area D Int Ext Frame,8
+B2 F04 AD 7200 - S FL 04 Area D Int Int Insul,47
+B2 F04 AD 9200 - S FL 04 Area D Int Int Layou,12
+B2 F04 AD 9201 - S FL 04 Area D Int Int Frame,113
+B2 F04 AD 9202 - S FL 04 Area D Int Int Top T,34
+B2 F04 AD 9203 - S FL 04 Area D Int Int Shaft,5
+B2 F04 AD 9206 - S FL 04 Area D Int Int Backi,24
+B2 F04 AD 9250 - S FL 04 Area D Int Drywall H,314
+B2 F04 AD 9270 - S FL 04 Area D Int Firetape ,52
+B2 F04 AD 9280 - S FL 04 Area D Int Tape Wall,193
+B2 F04 AG 5390 - S FL 04 Area C Ext Ext ,4
+B2 F04 AG 5400 - S FL 04 Area C Ext Ext Frame,47
+B2 F04 AG 5450 - S FL 04 Area C Ext Sheathing,32
+B2 F04 AG 7100 - S FL 04 Area C Ext Ext Insul,26
+B2 F04 AG 9250 - S FL 04 Area C Ext Drywall H,43
+B2 F04 AG 9265 - S FL 04 Area C Ext Ext Firet,32
+B2 F04 AG 9270 - S FL 04 Area C Ext Firetape ,12
+B2 F04 AG 9280 - S FL 04 Area C Ext Tape Wall,27
+B2 F04 AH 5390 - S FL 04 Area D Ext Ext ,5
+B2 F04 AH 5400 - S FL 04 Area D Ext Ext Frame,123
+B2 F04 AH 5450 - S FL 04 Area D Ext Sheathing,41
+B2 F04 AH 7100 - S FL 04 Area D Ext Ext Insul,32
+B2 F04 AH 9201 - S FL 04 Area D Ext Int Frame,3
+B2 F04 AH 9250 - S FL 04 Area D Ext Drywall H,57
+B2 F04 AH 9265 - S FL 04 Area D Ext Ext Firet,41
+B2 F04 AH 9270 - S FL 04 Area D Ext Firetape ,15
+B2 F04 AH 9280 - S FL 04 Area D Ext Tape Wall,33
+B3 F05 Ext 5390 - Roof Ext Frame Layout,3
+B3 F05 Ext 5400 - Roof Ext Frame Material,69
+B3 F05 Ext 5450 - Roof Sheathing Material,23
+B3 F05 Ext 7100 - Roof Ext Insulation Material,18
+B3 F05 Ext 9250 - Roof Drywall Hang Material,36
+B3 F05 Ext 9265 - Roof Ext Firetape ,23
+B3 F05 Ext 9270 - Roof Firetape ,8
+B3 F05 Ext 9280 - Roof Tape Walls ,19
+B3 F05 Int 5400 - Roof Ext Frame Material,6
+B3 F05 Int 7200 - Roof Int Insulation Material,9
+B3 F05 Int 9200 - Roof Int Layout,2
+B3 F05 Int 9201 - Roof Int Frame Material,8
+B3 F05 Int 9202 - Roof Int Top Track Material,5
+B3 F05 Int 9203 - Roof Int Shaft Wall Material,29
+B3 F05 Int 9206 - Roof Int Backing ,4
+B3 F05 Int 9250 - Roof Drywall Hang Material,67
+B3 F05 Int 9270 - Roof Firetape ,12
+B3 F05 Int 9280 - Roof Tape Walls ,26
+B4 F01 AK 9215 - Bldg 4 FL 01 Ceilings Int Frame Ceili,242
+B4 F01 AK 9255 - Bldg 4 FL 01 Ceilings Ceiling Hang La,20
+B4 F01 AK 9285 - Bldg 4 FL 01 Ceilings Tape Ceilings L,52
+B4 F02 AK 9215 - Bldg 4 FL 02 Ceilings Int Frame Ceili,180
+B4 F02 AK 9255 - Bldg 4 FL 02 Ceilings Ceiling Hang La,14
+B4 F02 AK 9285 - Bldg 4 FL 02 Ceilings Tape Ceilings L,28
+B4 F03 AK 9215 - Bldg 4 FL 03 Ceilings Int Frame Ceili,176
+B4 F03 AK 9255 - Bldg 4 FL 03 Ceilings Ceiling Hang La,13
+B4 F03 AK 9285 - Bldg 4 FL 03 Ceilings Tape Ceilings L,24
+B4 F04 AK 9215 - Bldg 4 FL 04 Ceilings Int Frame Ceili,176
+B4 F04 AK 9255 - Bldg 4 FL 04 Ceilings Ceiling Hang La,13
+B4 F04 AK 9285 - Bldg 4 FL 04 Ceilings Tape Ceilings L,27
+GC GC GC 0190 - GC GC GC Supervision,3659
+GC GC GC 0195 - GC GC GC Stocker/Scrapper,3120

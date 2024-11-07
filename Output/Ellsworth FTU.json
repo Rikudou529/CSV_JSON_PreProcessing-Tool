@@ -1,0 +1,492 @@
+[
+  {
+    "label": "1st Floor",
+    "children": [
+      {
+        "label": "Area A & C",
+        "children": [
+          {
+            "label": "Equipment",
+            "hours": 0,
+            "fullCode": "F1 AA&C 0140 - FL 1 Area A & C Equipment"
+          },
+          {
+            "label": "Ext Frame Layout",
+            "hours": 15,
+            "fullCode": "F1 AA&C 5390 - FL 1 Area A & C Ext Frame Layout"
+          },
+          {
+            "label": "Ext Frame",
+            "hours": 87,
+            "fullCode": "F1 AA&C 5400 - FL 1 Area A & C Ext Frame "
+          },
+          {
+            "label": "Welding",
+            "hours": 33,
+            "fullCode": "F1 AA&C 5420 - FL 1 Area A & C Welding"
+          },
+          {
+            "label": "Sheathing",
+            "hours": 103,
+            "fullCode": "F1 AA&C 5450 - FL 1 Area A & C Sheathing "
+          },
+          {
+            "label": "Ext Insulation",
+            "hours": 76,
+            "fullCode": "F1 AA&C 7100 - FL 1 Area A & C Ext Insulation "
+          },
+          {
+            "label": "Int Insulation",
+            "hours": 84,
+            "fullCode": "F1 AA&C 7200 - FL 1 Area A & C Int Insulation "
+          },
+          {
+            "label": "Int Layout",
+            "hours": 65,
+            "fullCode": "F1 AA&C 9200 - FL 1 Area A & C Int Layout"
+          },
+          {
+            "label": "Int Frame",
+            "hours": 354,
+            "fullCode": "F1 AA&C 9201 - FL 1 Area A & C Int Frame "
+          },
+          {
+            "label": "Int Top Track",
+            "hours": 36,
+            "fullCode": "F1 AA&C 9202 - FL 1 Area A & C Int Top Track "
+          },
+          {
+            "label": "Int Shaft Wall",
+            "hours": 21,
+            "fullCode": "F1 AA&C 9203 - FL 1 Area A & C Int Shaft Wall "
+          },
+          {
+            "label": "Int Backing",
+            "hours": 144,
+            "fullCode": "F1 AA&C 9206 - FL 1 Area A & C Int Backing "
+          },
+          {
+            "label": "Int Frame Ceilings Lab",
+            "hours": 1,
+            "fullCode": "F1 AA&C 9215 - FL 1 Area A & C Int Frame Ceilings Lab"
+          },
+          {
+            "label": "",
+            "hours": 245,
+            "fullCode": "F1 AA&C 9240 - FL 1 Area A & C"
+          },
+          {
+            "label": "Drywall Hang",
+            "hours": 959,
+            "fullCode": "F1 AA&C 9250 - FL 1 Area A & C Drywall Hang "
+          },
+          {
+            "label": "Ceiling Hang",
+            "hours": 0,
+            "fullCode": "F1 AA&C 9255 - FL 1 Area A & C Ceiling Hang "
+          },
+          {
+            "label": "Ext Firetape",
+            "hours": 95,
+            "fullCode": "F1 AA&C 9265 - FL 1 Area A & C Ext Firetape "
+          },
+          {
+            "label": "Tape Walls",
+            "hours": 1456,
+            "fullCode": "F1 AA&C 9280 - FL 1 Area A & C Tape Walls "
+          },
+          {
+            "label": "Tape Ceilings",
+            "hours": 1,
+            "fullCode": "F1 AA&C 9285 - FL 1 Area A & C Tape Ceilings "
+          },
+          {
+            "label": "Grid",
+            "hours": 193,
+            "fullCode": "F1 AA&C 9450 - FL 1 Area A & C Grid "
+          },
+          {
+            "label": "Ceiling Tile",
+            "hours": 96,
+            "fullCode": "F1 AA&C 9500 - FL 1 Area A & C Ceiling Tile "
+          }
+        ]
+      },
+      {
+        "label": "Area B & D",
+        "children": [
+          {
+            "label": "Ext Frame Layout",
+            "hours": 13,
+            "fullCode": "F1 AB&D 5390 - FL 1 Area B & D Ext Frame Layout"
+          },
+          {
+            "label": "Ext Frame",
+            "hours": 75,
+            "fullCode": "F1 AB&D 5400 - FL 1 Area B & D Ext Frame "
+          },
+          {
+            "label": "Welding",
+            "hours": 28,
+            "fullCode": "F1 AB&D 5420 - FL 1 Area B & D Welding"
+          },
+          {
+            "label": "Sheathing",
+            "hours": 89,
+            "fullCode": "F1 AB&D 5450 - FL 1 Area B & D Sheathing "
+          },
+          {
+            "label": "Ext Insulation",
+            "hours": 65,
+            "fullCode": "F1 AB&D 7100 - FL 1 Area B & D Ext Insulation "
+          },
+          {
+            "label": "Int Insulation",
+            "hours": 113,
+            "fullCode": "F1 AB&D 7200 - FL 1 Area B & D Int Insulation "
+          },
+          {
+            "label": "Int Layout",
+            "hours": 59,
+            "fullCode": "F1 AB&D 9200 - FL 1 Area B & D Int Layout"
+          },
+          {
+            "label": "Int Frame",
+            "hours": 343,
+            "fullCode": "F1 AB&D 9201 - FL 1 Area B & D Int Frame "
+          },
+          {
+            "label": "Int Top Track",
+            "hours": 1,
+            "fullCode": "F1 AB&D 9202 - FL 1 Area B & D Int Top Track "
+          },
+          {
+            "label": "Int Shaft Wall",
+            "hours": 1,
+            "fullCode": "F1 AB&D 9203 - FL 1 Area B & D Int Shaft Wall "
+          },
+          {
+            "label": "Int Backing",
+            "hours": 131,
+            "fullCode": "F1 AB&D 9206 - FL 1 Area B & D Int Backing "
+          },
+          {
+            "label": "Int Frame Ceilings Lab",
+            "hours": 1,
+            "fullCode": "F1 AB&D 9215 - FL 1 Area B & D Int Frame Ceilings Lab"
+          },
+          {
+            "label": "Drywall Hang",
+            "hours": 888,
+            "fullCode": "F1 AB&D 9250 - FL 1 Area B & D Drywall Hang "
+          },
+          {
+            "label": "Ceiling Hang",
+            "hours": 0,
+            "fullCode": "F1 AB&D 9255 - FL 1 Area B & D Ceiling Hang "
+          },
+          {
+            "label": "Ext Firetape",
+            "hours": 82,
+            "fullCode": "F1 AB&D 9265 - FL 1 Area B & D Ext Firetape "
+          },
+          {
+            "label": "Tape Walls",
+            "hours": 1298,
+            "fullCode": "F1 AB&D 9280 - FL 1 Area B & D Tape Walls "
+          },
+          {
+            "label": "Tape Ceilings",
+            "hours": 1,
+            "fullCode": "F1 AB&D 9285 - FL 1 Area B & D Tape Ceilings "
+          },
+          {
+            "label": "Grid",
+            "hours": 318,
+            "fullCode": "F1 AB&D 9450 - FL 1 Area B & D Grid "
+          },
+          {
+            "label": "Ceiling Tile",
+            "hours": 159,
+            "fullCode": "F1 AB&D 9500 - FL 1 Area B & D Ceiling Tile "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "2nd Floor",
+    "children": [
+      {
+        "label": "Area A & C",
+        "children": [
+          {
+            "label": "Ext Frame Layout",
+            "hours": 13,
+            "fullCode": "F2 AA&C 5390 - FL 2 Area A & C Ext Frame Layout"
+          },
+          {
+            "label": "Ext Frame",
+            "hours": 75,
+            "fullCode": "F2 AA&C 5400 - FL 2 Area A & C Ext Frame "
+          },
+          {
+            "label": "Welding",
+            "hours": 28,
+            "fullCode": "F2 AA&C 5420 - FL 2 Area A & C Welding"
+          },
+          {
+            "label": "Sheathing",
+            "hours": 89,
+            "fullCode": "F2 AA&C 5450 - FL 2 Area A & C Sheathing "
+          },
+          {
+            "label": "Ext Insulation",
+            "hours": 66,
+            "fullCode": "F2 AA&C 7100 - FL 2 Area A & C Ext Insulation "
+          },
+          {
+            "label": "Int Insulation",
+            "hours": 101,
+            "fullCode": "F2 AA&C 7200 - FL 2 Area A & C Int Insulation "
+          },
+          {
+            "label": "Int Layout",
+            "hours": 61,
+            "fullCode": "F2 AA&C 9200 - FL 2 Area A & C Int Layout"
+          },
+          {
+            "label": "Int Frame",
+            "hours": 326,
+            "fullCode": "F2 AA&C 9201 - FL 2 Area A & C Int Frame "
+          },
+          {
+            "label": "Int Top Track",
+            "hours": 49,
+            "fullCode": "F2 AA&C 9202 - FL 2 Area A & C Int Top Track "
+          },
+          {
+            "label": "Int Shaft Wall",
+            "hours": 21,
+            "fullCode": "F2 AA&C 9203 - FL 2 Area A & C Int Shaft Wall "
+          },
+          {
+            "label": "Int Backing",
+            "hours": 136,
+            "fullCode": "F2 AA&C 9206 - FL 2 Area A & C Int Backing "
+          },
+          {
+            "label": "Int Frame Ceilings Lab",
+            "hours": 1,
+            "fullCode": "F2 AA&C 9215 - FL 2 Area A & C Int Frame Ceilings Lab"
+          },
+          {
+            "label": "Drywall Hang",
+            "hours": 914,
+            "fullCode": "F2 AA&C 9250 - FL 2 Area A & C Drywall Hang "
+          },
+          {
+            "label": "Ceiling Hang",
+            "hours": 0,
+            "fullCode": "F2 AA&C 9255 - FL 2 Area A & C Ceiling Hang "
+          },
+          {
+            "label": "Ext Firetape",
+            "hours": 82,
+            "fullCode": "F2 AA&C 9265 - FL 2 Area A & C Ext Firetape "
+          },
+          {
+            "label": "Tape Walls",
+            "hours": 1303,
+            "fullCode": "F2 AA&C 9280 - FL 2 Area A & C Tape Walls "
+          },
+          {
+            "label": "Tape Ceilings",
+            "hours": 1,
+            "fullCode": "F2 AA&C 9285 - FL 2 Area A & C Tape Ceilings "
+          },
+          {
+            "label": "Grid",
+            "hours": 345,
+            "fullCode": "F2 AA&C 9450 - FL 2 Area A & C Grid "
+          },
+          {
+            "label": "Ceiling Tile",
+            "hours": 172,
+            "fullCode": "F2 AA&C 9500 - FL 2 Area A & C Ceiling Tile "
+          }
+        ]
+      },
+      {
+        "label": "Area B & D",
+        "children": [
+          {
+            "label": "Equipment",
+            "hours": 0,
+            "fullCode": "F2 AB&D 0140 - FL 2 Area B & D Equipment"
+          },
+          {
+            "label": "Ext Frame Layout",
+            "hours": 14,
+            "fullCode": "F2 AB&D 5390 - FL 2 Area B & D Ext Frame Layout"
+          },
+          {
+            "label": "Ext Frame",
+            "hours": 79,
+            "fullCode": "F2 AB&D 5400 - FL 2 Area B & D Ext Frame "
+          },
+          {
+            "label": "Welding",
+            "hours": 30,
+            "fullCode": "F2 AB&D 5420 - FL 2 Area B & D Welding"
+          },
+          {
+            "label": "Sheathing",
+            "hours": 95,
+            "fullCode": "F2 AB&D 5450 - FL 2 Area B & D Sheathing "
+          },
+          {
+            "label": "Ext Insulation",
+            "hours": 70,
+            "fullCode": "F2 AB&D 7100 - FL 2 Area B & D Ext Insulation "
+          },
+          {
+            "label": "Int Insulation",
+            "hours": 62,
+            "fullCode": "F2 AB&D 7200 - FL 2 Area B & D Int Insulation "
+          },
+          {
+            "label": "Int Layout",
+            "hours": 81,
+            "fullCode": "F2 AB&D 9200 - FL 2 Area B & D Int Layout"
+          },
+          {
+            "label": "Int Frame",
+            "hours": 408,
+            "fullCode": "F2 AB&D 9201 - FL 2 Area B & D Int Frame "
+          },
+          {
+            "label": "Int Top Track",
+            "hours": 102,
+            "fullCode": "F2 AB&D 9202 - FL 2 Area B & D Int Top Track "
+          },
+          {
+            "label": "Int Shaft Wall",
+            "hours": 1,
+            "fullCode": "F2 AB&D 9203 - FL 2 Area B & D Int Shaft Wall "
+          },
+          {
+            "label": "Int Backing",
+            "hours": 180,
+            "fullCode": "F2 AB&D 9206 - FL 2 Area B & D Int Backing "
+          },
+          {
+            "label": "Int Frame Ceilings Lab",
+            "hours": 1,
+            "fullCode": "F2 AB&D 9215 - FL 2 Area B & D Int Frame Ceilings Lab"
+          },
+          {
+            "label": "Drywall Hang",
+            "hours": 1126,
+            "fullCode": "F2 AB&D 9250 - FL 2 Area B & D Drywall Hang "
+          },
+          {
+            "label": "Ceiling Hang",
+            "hours": 0,
+            "fullCode": "F2 AB&D 9255 - FL 2 Area B & D Ceiling Hang "
+          },
+          {
+            "label": "Ext Firetape",
+            "hours": 87,
+            "fullCode": "F2 AB&D 9265 - FL 2 Area B & D Ext Firetape "
+          },
+          {
+            "label": "Tape Walls",
+            "hours": 1596,
+            "fullCode": "F2 AB&D 9280 - FL 2 Area B & D Tape Walls "
+          },
+          {
+            "label": "Tape Ceilings",
+            "hours": 1,
+            "fullCode": "F2 AB&D 9285 - FL 2 Area B & D Tape Ceilings "
+          },
+          {
+            "label": "Grid",
+            "hours": 373,
+            "fullCode": "F2 AB&D 9450 - FL 2 Area B & D Grid "
+          },
+          {
+            "label": "Ceiling Tile",
+            "hours": 187,
+            "fullCode": "F2 AB&D 9500 - FL 2 Area B & D Ceiling Tile "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Door",
+    "children": [
+      {
+        "label": "Door Frames Door Frames Door/Frames/Ha",
+        "hours": 1,
+        "fullCode": "FD FD 8800 - Door Frames Door Frames Door/Frames/Ha"
+      }
+    ]
+  },
+  {
+    "label": "Ext",
+    "children": [
+      {
+        "label": "Ext",
+        "children": [
+          {
+            "label": "Ext Frame",
+            "hours": 897,
+            "fullCode": "FX AX 5400 - Ext Ext Ext Frame "
+          },
+          {
+            "label": "Int Insulation",
+            "hours": 816,
+            "fullCode": "FX AX 7200 - Ext Ext Int Insulation "
+          },
+          {
+            "label": "Int Frame Ceilings L",
+            "hours": 1973,
+            "fullCode": "FX AX 9215 - Ext Ext Int Frame Ceilings L"
+          },
+          {
+            "label": "Ceiling Hang",
+            "hours": 1750,
+            "fullCode": "FX AX 9255 - Ext Ext Ceiling Hang "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Building 0",
+    "children": [
+      {
+        "label": "Phase 0",
+        "children": [
+          {
+            "label": "General Conditions",
+            "children": [
+              {
+                "label": "Supervision",
+                "hours": 2100,
+                "fullCode": "B0 F0 A0 0190 - Supervision"
+              },
+              {
+                "label": "Stocker Scrapper",
+                "hours": 1400,
+                "fullCode": "B0 F0 A0 0195 - Stocker Scrapper"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

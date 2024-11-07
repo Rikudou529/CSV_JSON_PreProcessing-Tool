@@ -1,0 +1,1887 @@
+[
+  {
+    "label": "Building 1 North",
+    "children": [
+      {
+        "label": "Floor 01",
+        "children": [
+          {
+            "label": "Area A",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 12,
+                "fullCode": "B1 F01 AA 5400 - N FL 01 Area A Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 67,
+                "fullCode": "B1 F01 AA 7200 - N FL 01 Area A Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 14,
+                "fullCode": "B1 F01 AA 9200 - N FL 01 Area A Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 60,
+                "fullCode": "B1 F01 AA 9201 - N FL 01 Area A Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 41,
+                "fullCode": "B1 F01 AA 9202 - N FL 01 Area A Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 8,
+                "fullCode": "B1 F01 AA 9203 - N FL 01 Area A Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 29,
+                "fullCode": "B1 F01 AA 9206 - N FL 01 Area A Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 378,
+                "fullCode": "B1 F01 AA 9250 - N FL 01 Area A Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 79,
+                "fullCode": "B1 F01 AA 9270 - N FL 01 Area A Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 211,
+                "fullCode": "B1 F01 AA 9280 - N FL 01 Area A Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area A Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 4,
+                "fullCode": "B1 F01 AE 5390 - N FL 01 Area A Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 48,
+                "fullCode": "B1 F01 AE 5400 - N FL 01 Area A Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 33,
+                "fullCode": "B1 F01 AE 5450 - N FL 01 Area A Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 26,
+                "fullCode": "B1 F01 AE 7100 - N FL 01 Area A Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 44,
+                "fullCode": "B1 F01 AE 9250 - N FL 01 Area A Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 33,
+                "fullCode": "B1 F01 AE 9265 - N FL 01 Area A Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 12,
+                "fullCode": "B1 F01 AE 9270 - N FL 01 Area A Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 27,
+                "fullCode": "B1 F01 AE 9280 - N FL 01 Area A Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 10,
+                "fullCode": "B1 F01 AB 5400 - N FL 01 Area B Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 65,
+                "fullCode": "B1 F01 AB 7200 - N FL 01 Area B Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 17,
+                "fullCode": "B1 F01 AB 9200 - N FL 01 Area B Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 76,
+                "fullCode": "B1 F01 AB 9201 - N FL 01 Area B Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 49,
+                "fullCode": "B1 F01 AB 9202 - N FL 01 Area B Int Int Top T"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 35,
+                "fullCode": "B1 F01 AB 9206 - N FL 01 Area B Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 290,
+                "fullCode": "B1 F01 AB 9250 - N FL 01 Area B Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 97,
+                "fullCode": "B1 F01 AB 9270 - N FL 01 Area B Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 216,
+                "fullCode": "B1 F01 AB 9280 - N FL 01 Area B Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 4,
+                "fullCode": "B1 F01 AF 5390 - N FL 01 Area B Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 44,
+                "fullCode": "B1 F01 AF 5400 - N FL 01 Area B Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 30,
+                "fullCode": "B1 F01 AF 5450 - N FL 01 Area B Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 24,
+                "fullCode": "B1 F01 AF 7100 - N FL 01 Area B Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 37,
+                "fullCode": "B1 F01 AF 9250 - N FL 01 Area B Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 30,
+                "fullCode": "B1 F01 AF 9265 - N FL 01 Area B Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 11,
+                "fullCode": "B1 F01 AF 9270 - N FL 01 Area B Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 24,
+                "fullCode": "B1 F01 AF 9280 - N FL 01 Area B Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 02",
+        "children": [
+          {
+            "label": "Area A",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 18,
+                "fullCode": "B1 F02 AA 5400 - N FL 02 Area A Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 94,
+                "fullCode": "B1 F02 AA 7200 - N FL 02 Area A Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 23,
+                "fullCode": "B1 F02 AA 9200 - N FL 02 Area A Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 180,
+                "fullCode": "B1 F02 AA 9201 - N FL 02 Area A Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 65,
+                "fullCode": "B1 F02 AA 9202 - N FL 02 Area A Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 13,
+                "fullCode": "B1 F02 AA 9203 - N FL 02 Area A Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 45,
+                "fullCode": "B1 F02 AA 9206 - N FL 02 Area A Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 573,
+                "fullCode": "B1 F02 AA 9250 - N FL 02 Area A Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 114,
+                "fullCode": "B1 F02 AA 9270 - N FL 02 Area A Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 338,
+                "fullCode": "B1 F02 AA 9280 - N FL 02 Area A Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area A Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 5,
+                "fullCode": "B1 F02 AE 5390 - N FL 02 Area A Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 63,
+                "fullCode": "B1 F02 AE 5400 - N FL 02 Area A Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 42,
+                "fullCode": "B1 F02 AE 5450 - N FL 02 Area A Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 34,
+                "fullCode": "B1 F02 AE 7100 - N FL 02 Area A Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 56,
+                "fullCode": "B1 F02 AE 9250 - N FL 02 Area A Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 43,
+                "fullCode": "B1 F02 AE 9265 - N FL 02 Area A Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 16,
+                "fullCode": "B1 F02 AE 9270 - N FL 02 Area A Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 35,
+                "fullCode": "B1 F02 AE 9280 - N FL 02 Area A Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 10,
+                "fullCode": "B1 F02 AB 5400 - N FL 02 Area B Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 39,
+                "fullCode": "B1 F02 AB 7200 - N FL 02 Area B Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 12,
+                "fullCode": "B1 F02 AB 9200 - N FL 02 Area B Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 114,
+                "fullCode": "B1 F02 AB 9201 - N FL 02 Area B Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 34,
+                "fullCode": "B1 F02 AB 9202 - N FL 02 Area B Int Int Top T"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 24,
+                "fullCode": "B1 F02 AB 9206 - N FL 02 Area B Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 190,
+                "fullCode": "B1 F02 AB 9250 - N FL 02 Area B Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 64,
+                "fullCode": "B1 F02 AB 9270 - N FL 02 Area B Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 140,
+                "fullCode": "B1 F02 AB 9280 - N FL 02 Area B Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 5,
+                "fullCode": "B1 F02 AF 5390 - N FL 02 Area B Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 58,
+                "fullCode": "B1 F02 AF 5400 - N FL 02 Area B Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 39,
+                "fullCode": "B1 F02 AF 5450 - N FL 02 Area B Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 31,
+                "fullCode": "B1 F02 AF 7100 - N FL 02 Area B Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 48,
+                "fullCode": "B1 F02 AF 9250 - N FL 02 Area B Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 39,
+                "fullCode": "B1 F02 AF 9265 - N FL 02 Area B Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 14,
+                "fullCode": "B1 F02 AF 9270 - N FL 02 Area B Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 32,
+                "fullCode": "B1 F02 AF 9280 - N FL 02 Area B Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 03",
+        "children": [
+          {
+            "label": "Area A",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 17,
+                "fullCode": "B1 F03 AA 5400 - N FL 03 Area A Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 82,
+                "fullCode": "B1 F03 AA 7200 - N FL 03 Area A Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 20,
+                "fullCode": "B1 F03 AA 9200 - N FL 03 Area A Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 193,
+                "fullCode": "B1 F03 AA 9201 - N FL 03 Area A Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 57,
+                "fullCode": "B1 F03 AA 9202 - N FL 03 Area A Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 17,
+                "fullCode": "B1 F03 AA 9203 - N FL 03 Area A Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 40,
+                "fullCode": "B1 F03 AA 9206 - N FL 03 Area A Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 434,
+                "fullCode": "B1 F03 AA 9250 - N FL 03 Area A Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 109,
+                "fullCode": "B1 F03 AA 9270 - N FL 03 Area A Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 264,
+                "fullCode": "B1 F03 AA 9280 - N FL 03 Area A Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area A Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 4,
+                "fullCode": "B1 F03 AE 5390 - N FL 03 Area A Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 51,
+                "fullCode": "B1 F03 AE 5400 - N FL 03 Area A Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 35,
+                "fullCode": "B1 F03 AE 5450 - N FL 03 Area A Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 28,
+                "fullCode": "B1 F03 AE 7100 - N FL 03 Area A Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 49,
+                "fullCode": "B1 F03 AE 9250 - N FL 03 Area A Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 35,
+                "fullCode": "B1 F03 AE 9265 - N FL 03 Area A Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 13,
+                "fullCode": "B1 F03 AE 9270 - N FL 03 Area A Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 28,
+                "fullCode": "B1 F03 AE 9280 - N FL 03 Area A Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 8,
+                "fullCode": "B1 F03 AB 5400 - N FL 03 Area B Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 61,
+                "fullCode": "B1 F03 AB 7200 - N FL 03 Area B Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 16,
+                "fullCode": "B1 F03 AB 9200 - N FL 03 Area B Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 175,
+                "fullCode": "B1 F03 AB 9201 - N FL 03 Area B Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 45,
+                "fullCode": "B1 F03 AB 9202 - N FL 03 Area B Int Int Top T"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 31,
+                "fullCode": "B1 F03 AB 9206 - N FL 03 Area B Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 248,
+                "fullCode": "B1 F03 AB 9250 - N FL 03 Area B Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 90,
+                "fullCode": "B1 F03 AB 9270 - N FL 03 Area B Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 192,
+                "fullCode": "B1 F03 AB 9280 - N FL 03 Area B Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 5,
+                "fullCode": "B1 F03 AF 5390 - N FL 03 Area B Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 55,
+                "fullCode": "B1 F03 AF 5400 - N FL 03 Area B Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 37,
+                "fullCode": "B1 F03 AF 5450 - N FL 03 Area B Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 30,
+                "fullCode": "B1 F03 AF 7100 - N FL 03 Area B Ext Ext Insul"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 12,
+                "fullCode": "B1 F03 AF 9201 - N FL 03 Area B Ext Int Frame"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 46,
+                "fullCode": "B1 F03 AF 9250 - N FL 03 Area B Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 37,
+                "fullCode": "B1 F03 AF 9265 - N FL 03 Area B Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 14,
+                "fullCode": "B1 F03 AF 9270 - N FL 03 Area B Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 31,
+                "fullCode": "B1 F03 AF 9280 - N FL 03 Area B Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 04",
+        "children": [
+          {
+            "label": "Area A",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 16,
+                "fullCode": "B1 F04 AA 5400 - N FL 04 Area A Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 80,
+                "fullCode": "B1 F04 AA 7200 - N FL 04 Area A Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 20,
+                "fullCode": "B1 F04 AA 9200 - N FL 04 Area A Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 198,
+                "fullCode": "B1 F04 AA 9201 - N FL 04 Area A Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 58,
+                "fullCode": "B1 F04 AA 9202 - N FL 04 Area A Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 12,
+                "fullCode": "B1 F04 AA 9203 - N FL 04 Area A Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 40,
+                "fullCode": "B1 F04 AA 9206 - N FL 04 Area A Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 419,
+                "fullCode": "B1 F04 AA 9250 - N FL 04 Area A Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 110,
+                "fullCode": "B1 F04 AA 9270 - N FL 04 Area A Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 265,
+                "fullCode": "B1 F04 AA 9280 - N FL 04 Area A Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area A Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 4,
+                "fullCode": "B1 F04 AE 5390 - N FL 04 Area A Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 51,
+                "fullCode": "B1 F04 AE 5400 - N FL 04 Area A Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 35,
+                "fullCode": "B1 F04 AE 5450 - N FL 04 Area A Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 28,
+                "fullCode": "B1 F04 AE 7100 - N FL 04 Area A Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 49,
+                "fullCode": "B1 F04 AE 9250 - N FL 04 Area A Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 35,
+                "fullCode": "B1 F04 AE 9265 - N FL 04 Area A Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 13,
+                "fullCode": "B1 F04 AE 9270 - N FL 04 Area A Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 29,
+                "fullCode": "B1 F04 AE 9280 - N FL 04 Area A Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 8,
+                "fullCode": "B1 F04 AB 5400 - N FL 04 Area B Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 57,
+                "fullCode": "B1 F04 AB 7200 - N FL 04 Area B Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 15,
+                "fullCode": "B1 F04 AB 9200 - N FL 04 Area B Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 164,
+                "fullCode": "B1 F04 AB 9201 - N FL 04 Area B Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 42,
+                "fullCode": "B1 F04 AB 9202 - N FL 04 Area B Int Int Top T"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 30,
+                "fullCode": "B1 F04 AB 9206 - N FL 04 Area B Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 234,
+                "fullCode": "B1 F04 AB 9250 - N FL 04 Area B Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 85,
+                "fullCode": "B1 F04 AB 9270 - N FL 04 Area B Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 181,
+                "fullCode": "B1 F04 AB 9280 - N FL 04 Area B Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area B Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 5,
+                "fullCode": "B1 F04 AF 5390 - N FL 04 Area B Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 55,
+                "fullCode": "B1 F04 AF 5400 - N FL 04 Area B Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 37,
+                "fullCode": "B1 F04 AF 5450 - N FL 04 Area B Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 30,
+                "fullCode": "B1 F04 AF 7100 - N FL 04 Area B Ext Ext Insul"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 21,
+                "fullCode": "B1 F04 AF 9201 - N FL 04 Area B Ext Int Frame"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 46,
+                "fullCode": "B1 F04 AF 9250 - N FL 04 Area B Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 37,
+                "fullCode": "B1 F04 AF 9265 - N FL 04 Area B Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 14,
+                "fullCode": "B1 F04 AF 9270 - N FL 04 Area B Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 31,
+                "fullCode": "B1 F04 AF 9280 - N FL 04 Area B Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Building 2 South",
+    "children": [
+      {
+        "label": "Floor 01",
+        "children": [
+          {
+            "label": "Area C",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 44,
+                "fullCode": "B2 F01 AC 5400 - S FL 01 Area C Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 93,
+                "fullCode": "B2 F01 AC 7200 - S FL 01 Area C Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 25,
+                "fullCode": "B2 F01 AC 9200 - S FL 01 Area C Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 109,
+                "fullCode": "B2 F01 AC 9201 - S FL 01 Area C Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 72,
+                "fullCode": "B2 F01 AC 9202 - S FL 01 Area C Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 25,
+                "fullCode": "B2 F01 AC 9203 - S FL 01 Area C Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 51,
+                "fullCode": "B2 F01 AC 9206 - S FL 01 Area C Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 527,
+                "fullCode": "B2 F01 AC 9250 - S FL 01 Area C Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 160,
+                "fullCode": "B2 F01 AC 9270 - S FL 01 Area C Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 300,
+                "fullCode": "B2 F01 AC 9280 - S FL 01 Area C Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area C Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 6,
+                "fullCode": "B2 F01 AG 5390 - S FL 01 Area C Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 71,
+                "fullCode": "B2 F01 AG 5400 - S FL 01 Area C Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 40,
+                "fullCode": "B2 F01 AG 5450 - S FL 01 Area C Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 38,
+                "fullCode": "B2 F01 AG 7100 - S FL 01 Area C Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 63,
+                "fullCode": "B2 F01 AG 9250 - S FL 01 Area C Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 40,
+                "fullCode": "B2 F01 AG 9265 - S FL 01 Area C Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 18,
+                "fullCode": "B2 F01 AG 9270 - S FL 01 Area C Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 40,
+                "fullCode": "B2 F01 AG 9280 - S FL 01 Area C Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 23,
+                "fullCode": "B2 F01 AD 5400 - S FL 01 Area D Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 128,
+                "fullCode": "B2 F01 AD 7200 - S FL 01 Area D Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 33,
+                "fullCode": "B2 F01 AD 9200 - S FL 01 Area D Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 304,
+                "fullCode": "B2 F01 AD 9201 - S FL 01 Area D Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 92,
+                "fullCode": "B2 F01 AD 9202 - S FL 01 Area D Int Int Top T"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 60,
+                "fullCode": "B2 F01 AD 9206 - S FL 01 Area D Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 693,
+                "fullCode": "B2 F01 AD 9250 - S FL 01 Area D Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 175,
+                "fullCode": "B2 F01 AD 9270 - S FL 01 Area D Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 558,
+                "fullCode": "B2 F01 AD 9280 - S FL 01 Area D Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 4,
+                "fullCode": "B2 F01 AH 5390 - S FL 01 Area D Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 131,
+                "fullCode": "B2 F01 AH 5400 - S FL 01 Area D Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 121,
+                "fullCode": "B2 F01 AH 5450 - S FL 01 Area D Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 98,
+                "fullCode": "B2 F01 AH 7100 - S FL 01 Area D Ext Ext Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 6,
+                "fullCode": "B2 F01 AH 9200 - S FL 01 Area D Ext Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 98,
+                "fullCode": "B2 F01 AH 9201 - S FL 01 Area D Ext Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 29,
+                "fullCode": "B2 F01 AH 9202 - S FL 01 Area D Ext Int Top T"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 12,
+                "fullCode": "B2 F01 AH 9206 - S FL 01 Area D Ext Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 127,
+                "fullCode": "B2 F01 AH 9250 - S FL 01 Area D Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 29,
+                "fullCode": "B2 F01 AH 9265 - S FL 01 Area D Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 11,
+                "fullCode": "B2 F01 AH 9270 - S FL 01 Area D Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 150,
+                "fullCode": "B2 F01 AH 9280 - S FL 01 Area D Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 02",
+        "children": [
+          {
+            "label": "Area C",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 22,
+                "fullCode": "B2 F02 AC 5400 - S FL 02 Area C Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 96,
+                "fullCode": "B2 F02 AC 7200 - S FL 02 Area C Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 25,
+                "fullCode": "B2 F02 AC 9200 - S FL 02 Area C Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 173,
+                "fullCode": "B2 F02 AC 9201 - S FL 02 Area C Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 71,
+                "fullCode": "B2 F02 AC 9202 - S FL 02 Area C Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 32,
+                "fullCode": "B2 F02 AC 9203 - S FL 02 Area C Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 50,
+                "fullCode": "B2 F02 AC 9206 - S FL 02 Area C Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 553,
+                "fullCode": "B2 F02 AC 9250 - S FL 02 Area C Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 171,
+                "fullCode": "B2 F02 AC 9270 - S FL 02 Area C Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 277,
+                "fullCode": "B2 F02 AC 9280 - S FL 02 Area C Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area C Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 5,
+                "fullCode": "B2 F02 AG 5390 - S FL 02 Area C Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 57,
+                "fullCode": "B2 F02 AG 5400 - S FL 02 Area C Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 39,
+                "fullCode": "B2 F02 AG 5450 - S FL 02 Area C Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 31,
+                "fullCode": "B2 F02 AG 7100 - S FL 02 Area C Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 51,
+                "fullCode": "B2 F02 AG 9250 - S FL 02 Area C Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 39,
+                "fullCode": "B2 F02 AG 9265 - S FL 02 Area C Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 14,
+                "fullCode": "B2 F02 AG 9270 - S FL 02 Area C Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 32,
+                "fullCode": "B2 F02 AG 9280 - S FL 02 Area C Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 7,
+                "fullCode": "B2 F02 AD 5400 - S FL 02 Area D Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 88,
+                "fullCode": "B2 F02 AD 7200 - S FL 02 Area D Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 21,
+                "fullCode": "B2 F02 AD 9200 - S FL 02 Area D Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 189,
+                "fullCode": "B2 F02 AD 9201 - S FL 02 Area D Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 59,
+                "fullCode": "B2 F02 AD 9202 - S FL 02 Area D Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 18,
+                "fullCode": "B2 F02 AD 9203 - S FL 02 Area D Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 41,
+                "fullCode": "B2 F02 AD 9206 - S FL 02 Area D Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 552,
+                "fullCode": "B2 F02 AD 9250 - S FL 02 Area D Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 94,
+                "fullCode": "B2 F02 AD 9270 - S FL 02 Area D Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 356,
+                "fullCode": "B2 F02 AD 9280 - S FL 02 Area D Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 6,
+                "fullCode": "B2 F02 AH 5390 - S FL 02 Area D Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 112,
+                "fullCode": "B2 F02 AH 5400 - S FL 02 Area D Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 50,
+                "fullCode": "B2 F02 AH 5450 - S FL 02 Area D Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 40,
+                "fullCode": "B2 F02 AH 7100 - S FL 02 Area D Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 64,
+                "fullCode": "B2 F02 AH 9250 - S FL 02 Area D Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 51,
+                "fullCode": "B2 F02 AH 9265 - S FL 02 Area D Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 19,
+                "fullCode": "B2 F02 AH 9270 - S FL 02 Area D Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 41,
+                "fullCode": "B2 F02 AH 9280 - S FL 02 Area D Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 03",
+        "children": [
+          {
+            "label": "Area C",
+            "children": [
+              {
+                "label": "Int Insul",
+                "hours": 94,
+                "fullCode": "B2 F03 AC 7200 - S FL 03 Area C Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 24,
+                "fullCode": "B2 F03 AC 9200 - S FL 03 Area C Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 193,
+                "fullCode": "B2 F03 AC 9201 - S FL 03 Area C Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 68,
+                "fullCode": "B2 F03 AC 9202 - S FL 03 Area C Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 34,
+                "fullCode": "B2 F03 AC 9203 - S FL 03 Area C Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 48,
+                "fullCode": "B2 F03 AC 9206 - S FL 03 Area C Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 529,
+                "fullCode": "B2 F03 AC 9250 - S FL 03 Area C Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 167,
+                "fullCode": "B2 F03 AC 9270 - S FL 03 Area C Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 258,
+                "fullCode": "B2 F03 AC 9280 - S FL 03 Area C Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area C Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 4,
+                "fullCode": "B2 F03 AG 5390 - S FL 03 Area C Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 48,
+                "fullCode": "B2 F03 AG 5400 - S FL 03 Area C Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 32,
+                "fullCode": "B2 F03 AG 5450 - S FL 03 Area C Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 26,
+                "fullCode": "B2 F03 AG 7100 - S FL 03 Area C Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 43,
+                "fullCode": "B2 F03 AG 9250 - S FL 03 Area C Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 32,
+                "fullCode": "B2 F03 AG 9265 - S FL 03 Area C Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 12,
+                "fullCode": "B2 F03 AG 9270 - S FL 03 Area C Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 27,
+                "fullCode": "B2 F03 AG 9280 - S FL 03 Area C Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 7,
+                "fullCode": "B2 F03 AD 5400 - S FL 03 Area D Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 51,
+                "fullCode": "B2 F03 AD 7200 - S FL 03 Area D Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 11,
+                "fullCode": "B2 F03 AD 9200 - S FL 03 Area D Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 71,
+                "fullCode": "B2 F03 AD 9201 - S FL 03 Area D Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 32,
+                "fullCode": "B2 F03 AD 9202 - S FL 03 Area D Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 25,
+                "fullCode": "B2 F03 AD 9203 - S FL 03 Area D Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 23,
+                "fullCode": "B2 F03 AD 9206 - S FL 03 Area D Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 313,
+                "fullCode": "B2 F03 AD 9250 - S FL 03 Area D Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 54,
+                "fullCode": "B2 F03 AD 9270 - S FL 03 Area D Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 189,
+                "fullCode": "B2 F03 AD 9280 - S FL 03 Area D Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D Exterior",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 59,
+                "fullCode": "B2 F03 AH 5400 - S FL 03 Area D Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 40,
+                "fullCode": "B2 F03 AH 5450 - S FL 03 Area D Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 32,
+                "fullCode": "B2 F03 AH 7100 - S FL 03 Area D Ext Ext Insul"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 4,
+                "fullCode": "B2 F03 AH 9201 - S FL 03 Area D Ext Int Frame"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 57,
+                "fullCode": "B2 F03 AH 9250 - S FL 03 Area D Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 40,
+                "fullCode": "B2 F03 AH 9265 - S FL 03 Area D Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 15,
+                "fullCode": "B2 F03 AH 9270 - S FL 03 Area D Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 33,
+                "fullCode": "B2 F03 AH 9280 - S FL 03 Area D Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 04",
+        "children": [
+          {
+            "label": "Area C",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 24,
+                "fullCode": "B2 F04 AC 5400 - S FL 04 Area C Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 103,
+                "fullCode": "B2 F04 AC 7200 - S FL 04 Area C Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 28,
+                "fullCode": "B2 F04 AC 9200 - S FL 04 Area C Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 240,
+                "fullCode": "B2 F04 AC 9201 - S FL 04 Area C Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 80,
+                "fullCode": "B2 F04 AC 9202 - S FL 04 Area C Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 23,
+                "fullCode": "B2 F04 AC 9203 - S FL 04 Area C Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 56,
+                "fullCode": "B2 F04 AC 9206 - S FL 04 Area C Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 586,
+                "fullCode": "B2 F04 AC 9250 - S FL 04 Area C Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 189,
+                "fullCode": "B2 F04 AC 9270 - S FL 04 Area C Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 309,
+                "fullCode": "B2 F04 AC 9280 - S FL 04 Area C Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area C Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 4,
+                "fullCode": "B2 F04 AG 5390 - S FL 04 Area C Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 47,
+                "fullCode": "B2 F04 AG 5400 - S FL 04 Area C Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 32,
+                "fullCode": "B2 F04 AG 5450 - S FL 04 Area C Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 26,
+                "fullCode": "B2 F04 AG 7100 - S FL 04 Area C Ext Ext Insul"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 43,
+                "fullCode": "B2 F04 AG 9250 - S FL 04 Area C Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 32,
+                "fullCode": "B2 F04 AG 9265 - S FL 04 Area C Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 12,
+                "fullCode": "B2 F04 AG 9270 - S FL 04 Area C Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 27,
+                "fullCode": "B2 F04 AG 9280 - S FL 04 Area C Ext Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D",
+            "children": [
+              {
+                "label": "Ext Frame",
+                "hours": 8,
+                "fullCode": "B2 F04 AD 5400 - S FL 04 Area D Int Ext Frame"
+              },
+              {
+                "label": "Int Insul",
+                "hours": 47,
+                "fullCode": "B2 F04 AD 7200 - S FL 04 Area D Int Int Insul"
+              },
+              {
+                "label": "Int Layou",
+                "hours": 12,
+                "fullCode": "B2 F04 AD 9200 - S FL 04 Area D Int Int Layou"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 113,
+                "fullCode": "B2 F04 AD 9201 - S FL 04 Area D Int Int Frame"
+              },
+              {
+                "label": "Int Top T",
+                "hours": 34,
+                "fullCode": "B2 F04 AD 9202 - S FL 04 Area D Int Int Top T"
+              },
+              {
+                "label": "Int Shaft",
+                "hours": 5,
+                "fullCode": "B2 F04 AD 9203 - S FL 04 Area D Int Int Shaft"
+              },
+              {
+                "label": "Int Backi",
+                "hours": 24,
+                "fullCode": "B2 F04 AD 9206 - S FL 04 Area D Int Int Backi"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 314,
+                "fullCode": "B2 F04 AD 9250 - S FL 04 Area D Int Drywall H"
+              },
+              {
+                "label": "Firetape",
+                "hours": 52,
+                "fullCode": "B2 F04 AD 9270 - S FL 04 Area D Int Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 193,
+                "fullCode": "B2 F04 AD 9280 - S FL 04 Area D Int Tape Wall"
+              }
+            ]
+          },
+          {
+            "label": "Area D Exterior",
+            "children": [
+              {
+                "label": "Ext",
+                "hours": 5,
+                "fullCode": "B2 F04 AH 5390 - S FL 04 Area D Ext Ext "
+              },
+              {
+                "label": "Ext Frame",
+                "hours": 123,
+                "fullCode": "B2 F04 AH 5400 - S FL 04 Area D Ext Ext Frame"
+              },
+              {
+                "label": "Sheathing",
+                "hours": 41,
+                "fullCode": "B2 F04 AH 5450 - S FL 04 Area D Ext Sheathing"
+              },
+              {
+                "label": "Ext Insul",
+                "hours": 32,
+                "fullCode": "B2 F04 AH 7100 - S FL 04 Area D Ext Ext Insul"
+              },
+              {
+                "label": "Int Frame",
+                "hours": 3,
+                "fullCode": "B2 F04 AH 9201 - S FL 04 Area D Ext Int Frame"
+              },
+              {
+                "label": "Drywall H",
+                "hours": 57,
+                "fullCode": "B2 F04 AH 9250 - S FL 04 Area D Ext Drywall H"
+              },
+              {
+                "label": "Ext Firet",
+                "hours": 41,
+                "fullCode": "B2 F04 AH 9265 - S FL 04 Area D Ext Ext Firet"
+              },
+              {
+                "label": "Firetape",
+                "hours": 15,
+                "fullCode": "B2 F04 AH 9270 - S FL 04 Area D Ext Firetape "
+              },
+              {
+                "label": "Tape Wall",
+                "hours": 33,
+                "fullCode": "B2 F04 AH 9280 - S FL 04 Area D Ext Tape Wall"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Building 3",
+    "children": [
+      {
+        "label": "Roof",
+        "children": [
+          {
+            "label": "Exterior",
+            "children": [
+              {
+                "label": "Ext Frame Layout",
+                "hours": 3,
+                "fullCode": "B3 F05 Ext 5390 - Roof Ext Frame Layout"
+              },
+              {
+                "label": "Ext Frame Material",
+                "hours": 69,
+                "fullCode": "B3 F05 Ext 5400 - Roof Ext Frame Material"
+              },
+              {
+                "label": "Sheathing Material",
+                "hours": 23,
+                "fullCode": "B3 F05 Ext 5450 - Roof Sheathing Material"
+              },
+              {
+                "label": "Ext Insulation Material",
+                "hours": 18,
+                "fullCode": "B3 F05 Ext 7100 - Roof Ext Insulation Material"
+              },
+              {
+                "label": "Drywall Hang Material",
+                "hours": 36,
+                "fullCode": "B3 F05 Ext 9250 - Roof Drywall Hang Material"
+              },
+              {
+                "label": "Ext Firetape",
+                "hours": 23,
+                "fullCode": "B3 F05 Ext 9265 - Roof Ext Firetape "
+              },
+              {
+                "label": "Firetape",
+                "hours": 8,
+                "fullCode": "B3 F05 Ext 9270 - Roof Firetape "
+              },
+              {
+                "label": "Tape Walls",
+                "hours": 19,
+                "fullCode": "B3 F05 Ext 9280 - Roof Tape Walls "
+              }
+            ]
+          },
+          {
+            "label": "Interior",
+            "children": [
+              {
+                "label": "Ext Frame Material",
+                "hours": 6,
+                "fullCode": "B3 F05 Int 5400 - Roof Ext Frame Material"
+              },
+              {
+                "label": "Int Insulation Material",
+                "hours": 9,
+                "fullCode": "B3 F05 Int 7200 - Roof Int Insulation Material"
+              },
+              {
+                "label": "Int Layout",
+                "hours": 2,
+                "fullCode": "B3 F05 Int 9200 - Roof Int Layout"
+              },
+              {
+                "label": "Int Frame Material",
+                "hours": 8,
+                "fullCode": "B3 F05 Int 9201 - Roof Int Frame Material"
+              },
+              {
+                "label": "Int Top Track Material",
+                "hours": 5,
+                "fullCode": "B3 F05 Int 9202 - Roof Int Top Track Material"
+              },
+              {
+                "label": "Int Shaft Wall Material",
+                "hours": 29,
+                "fullCode": "B3 F05 Int 9203 - Roof Int Shaft Wall Material"
+              },
+              {
+                "label": "Int Backing",
+                "hours": 4,
+                "fullCode": "B3 F05 Int 9206 - Roof Int Backing "
+              },
+              {
+                "label": "Drywall Hang Material",
+                "hours": 67,
+                "fullCode": "B3 F05 Int 9250 - Roof Drywall Hang Material"
+              },
+              {
+                "label": "Firetape",
+                "hours": 12,
+                "fullCode": "B3 F05 Int 9270 - Roof Firetape "
+              },
+              {
+                "label": "Tape Walls",
+                "hours": 26,
+                "fullCode": "B3 F05 Int 9280 - Roof Tape Walls "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Building 4",
+    "children": [
+      {
+        "label": "Floor 01",
+        "children": [
+          {
+            "label": "Ceilings",
+            "children": [
+              {
+                "label": "Int Frame Ceili",
+                "hours": 242,
+                "fullCode": "B4 F01 AK 9215 - Bldg 4 FL 01 Ceilings Int Frame Ceili"
+              },
+              {
+                "label": "Ceiling Hang La",
+                "hours": 20,
+                "fullCode": "B4 F01 AK 9255 - Bldg 4 FL 01 Ceilings Ceiling Hang La"
+              },
+              {
+                "label": "Tape Ceilings L",
+                "hours": 52,
+                "fullCode": "B4 F01 AK 9285 - Bldg 4 FL 01 Ceilings Tape Ceilings L"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 02",
+        "children": [
+          {
+            "label": "Ceilings",
+            "children": [
+              {
+                "label": "Int Frame Ceili",
+                "hours": 180,
+                "fullCode": "B4 F02 AK 9215 - Bldg 4 FL 02 Ceilings Int Frame Ceili"
+              },
+              {
+                "label": "Ceiling Hang La",
+                "hours": 14,
+                "fullCode": "B4 F02 AK 9255 - Bldg 4 FL 02 Ceilings Ceiling Hang La"
+              },
+              {
+                "label": "Tape Ceilings L",
+                "hours": 28,
+                "fullCode": "B4 F02 AK 9285 - Bldg 4 FL 02 Ceilings Tape Ceilings L"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 03",
+        "children": [
+          {
+            "label": "Ceilings",
+            "children": [
+              {
+                "label": "Int Frame Ceili",
+                "hours": 176,
+                "fullCode": "B4 F03 AK 9215 - Bldg 4 FL 03 Ceilings Int Frame Ceili"
+              },
+              {
+                "label": "Ceiling Hang La",
+                "hours": 13,
+                "fullCode": "B4 F03 AK 9255 - Bldg 4 FL 03 Ceilings Ceiling Hang La"
+              },
+              {
+                "label": "Tape Ceilings L",
+                "hours": 24,
+                "fullCode": "B4 F03 AK 9285 - Bldg 4 FL 03 Ceilings Tape Ceilings L"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Floor 04",
+        "children": [
+          {
+            "label": "Ceilings",
+            "children": [
+              {
+                "label": "Int Frame Ceili",
+                "hours": 176,
+                "fullCode": "B4 F04 AK 9215 - Bldg 4 FL 04 Ceilings Int Frame Ceili"
+              },
+              {
+                "label": "Ceiling Hang La",
+                "hours": 13,
+                "fullCode": "B4 F04 AK 9255 - Bldg 4 FL 04 Ceilings Ceiling Hang La"
+              },
+              {
+                "label": "Tape Ceilings L",
+                "hours": 27,
+                "fullCode": "B4 F04 AK 9285 - Bldg 4 FL 04 Ceilings Tape Ceilings L"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "General Conditions",
+    "children": [
+      {
+        "label": "Supervision",
+        "hours": 3659,
+        "fullCode": "GC GC GC 0190 - GC GC GC Supervision"
+      },
+      {
+        "label": "Stocker/Scrapper",
+        "hours": 3120,
+        "fullCode": "GC GC GC 0195 - GC GC GC Stocker/Scrapper"
+      }
+    ]
+  }
+]
