@@ -3,13 +3,10 @@ from operator import itemgetter
 import os
 import csv
 import json
+from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QPushButton, QSizePolicy, QFileDialog
+from PyQt5.QtGui import QFont
+import sys
 
-name = 'complexData' # CSV file name
-content = '' # A variable that can store all csv file data
-
-csv_source = f"{name}.csv"
-csv_Target = f"{name}_new.csv"
-json_target = f"{name}.json"
 
 def remove_common_prefix(sequences_list):
     # Transpose the list to get all parts in each position across the sequences
@@ -166,103 +163,106 @@ areas = [
 ]
 
 
-# Get datas from csv file
-with open(csv_source, 'r') as file:
-    content = file.read() # Store All data from CSV file
+def get_full_data(csv_source):
 
-data = content.split('\n') # Split data per each row
-i = 0
+    content = ''
+    # Get datas from csv file
+    with open(csv_source, 'r') as file:
+        content = file.read() # Store All data from CSV file
 
-full_data = []
+    data = content.split('\n') # Split data per each row
+    i = 0
 
-for line in data:
-    i = i + 1
-    line_data = line.split(',') # Split row per each coma
-    if line_data.__len__() != 2:
-        continue # If length is not 2, or csv structure is not same, will continue
-    line_hour = ''
-    line_floor = ''
-    line_build = ''
-    line_area = ''
-    line_full = ''
-    line_label = ''
+    full_data = []
 
-    try:
-        line_full = line_data[0]
-        line_hour = line_data[1]
-        description = line_full.split('-')
-        if description.__len__() != 2: # Continue if the length is not 2, or not well structured
-            continue
-        left_d = description[0] # Left part of description when split it by '-'
-        right_d = description[1] # Right part
+    for line in data:
+        i = i + 1
+        line_data = line.split(',') # Split row per each coma
+        if line_data.__len__() != 2:
+            continue # If length is not 2, or csv structure is not same, will continue
+        line_hour = ''
+        line_floor = ''
+        line_build = ''
+        line_area = ''
+        line_full = ''
+        line_label = ''
 
-        # Start analyzing left part
+        try:
+            line_full = line_data[0]
+            line_hour = line_data[1]
+            description = line_full.split('-')
+            if description.__len__() != 2: # Continue if the length is not 2, or not well structured
+                continue
+            left_d = description[0] # Left part of description when split it by '-'
+            right_d = description[1] # Right part
 
-        analyze_left = left_d.split(' ')
+            # Start analyzing left part
 
-        for one in analyze_left:
-            for build in building:
-                if one == build['name']:
-                    line_build = build['label']
+            analyze_left = left_d.split(' ')
 
-            for area in areas:
-                if one == area['name']:
-                    line_area = area['label']
+            for one in analyze_left:
+                for build in building:
+                    if one == build['name']:
+                        line_build = build['label']
 
-                if one.__contains__(f"{area['name']}&"):
-                    one_list = one.split('&')
-                    line_area = area['label']
-                    j = 0
-                    for one_l in one_list:
-                        if j == 0:
-                            j = j+1
-                            continue
-                        line_area = f"{line_area} & {one_l}"
+                for area in areas:
+                    if one == area['name']:
+                        line_area = area['label']
 
-
-            for floor in floors:
-                if one == floor['name']:
-                    line_floor = floor['label']
-
-        # Start analyzing right part
+                    if one.__contains__(f"{area['name']}&"):
+                        one_list = one.split('&')
+                        line_area = area['label']
+                        j = 0
+                        for one_l in one_list:
+                            if j == 0:
+                                j = j+1
+                                continue
+                            line_area = f"{line_area} & {one_l}"
 
 
-    except Exception as e:
-        print(f"An Error Occured in row {i}: {e}")
+                for floor in floors:
+                    if one == floor['name']:
+                        line_floor = floor['label']
 
-    line_full_data = {
-        "build": line_build,
-        "floor": line_floor,
-        "area": line_area,
-        "hour": line_hour,
-        "full": line_full,
-        "label": right_d
-    }
-    full_data.append(line_full_data)
-
-sorted_data = sorted(full_data, key=lambda x: (x["build"], x["floor"], x["area"]))
-
-result = []
-for key, group in groupby(sorted_data, key=itemgetter("build", "floor", "area")):
-    group = list(group)  # Convert group to a list to iterate multiple times
-    full_sequences_lists = [item["label"].split() for item in group]  # Split each "full" field into sequences
-    
-    # Remove common repetitive prefix sequences
-    updated_full_sequences_lists = remove_common_prefix(full_sequences_lists)
-    
-    # Update each "full" entry in the group
-    for item, updated_sequences in zip(group, updated_full_sequences_lists):
-        item["label"] = " ".join(updated_sequences)  # Rejoin sequences into a single string
-        result.append(item)
-
-for item in result:
-    print(item)
+            # Start analyzing right part
 
 
-with open(csv_Target, mode='w', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=result[0].keys())
-    writer.writeheader()
-    writer.writerows(result)
+        except Exception as e:
+            print(f"An Error Occured in row {i}: {e}")
+
+        line_full_data = {
+            "build": line_build,
+            "floor": line_floor,
+            "area": line_area,
+            "hour": line_hour,
+            "full": line_full,
+            "label": right_d
+        }
+        full_data.append(line_full_data)
+
+    sorted_data = sorted(full_data, key=lambda x: (x["build"], x["floor"], x["area"]))
+
+    return sorted_data
+def sort_group_func(sorted_data):
+    result = []
+    for key, group in groupby(sorted_data, key=itemgetter("build", "floor", "area")):
+        group = list(group)  # Convert group to a list to iterate multiple times
+        full_sequences_lists = [item["label"].split() for item in group]  # Split each "full" field into sequences
+        
+        # Remove common repetitive prefix sequences
+        updated_full_sequences_lists = remove_common_prefix(full_sequences_lists)
+        
+        # Update each "full" entry in the group
+        for item, updated_sequences in zip(group, updated_full_sequences_lists):
+            item["label"] = " ".join(updated_sequences)  # Rejoin sequences into a single string
+            result.append(item)
+    return result
+
+
+# with open(csv_Target, mode='w', newline='') as file:
+#     writer = csv.DictWriter(file, fieldnames=result[0].keys())
+#     writer.writeheader()
+#     writer.writerows(result)
 
 def build_json_structure(data):
     structures = []
@@ -342,9 +342,52 @@ def build_json_structure(data):
 
 
 # Process the data and build the JSON structure
-json_structure = build_json_structure(result)
+# json_structure = build_json_structure(result)
 
-with open(json_target, mode='w') as file:
-    json.dump(json_structure, file, indent=2)
+# with open(json_target, mode='w') as file:
+#     json.dump(json_structure, file, indent=2)
 
-print(f"JSON structure saved to {json_target}")
+# print(f"JSON structure saved to {json_target}")
+
+class MainWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle('CSV to JSON Parser')
+        self.resize(240,120)
+        large_font = QFont("Arial", 16)  # 16 is the font size
+        widget = QWidget()
+        layout = QVBoxLayout()
+
+        loadBtn = QPushButton("Load files")
+
+        saveBtn = QPushButton("Convert && Save")
+        loadBtn.setFont(large_font)
+        saveBtn.setFont(large_font)
+        loadBtn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
+        saveBtn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
+
+        loadBtn.clicked.connect(self.load_files)
+        saveBtn.clicked.connect(self.save_files)
+        layout.addWidget(loadBtn)
+        layout.addWidget(saveBtn)
+
+        widget.setLayout(layout)
+        self.setCentralWidget(widget)
+
+    def load_files(self):
+        file_paths, _ = QFileDialog.getOpenFileNames(self, "Open CSV Files", "", "CSV Files (*.csv);;All Files (*)")
+        
+        # Check if a file was selected
+        if file_paths:
+            for file_path in file_paths:
+                print(file_path)
+
+    def save_files(self):
+        print('save')
+
+
+if __name__ == '__main__':
+    app = QApplication(sys.argv)
+    window = MainWindow()
+    window.show()
+    sys.exit(app.exec_())
