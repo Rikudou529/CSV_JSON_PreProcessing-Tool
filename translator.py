@@ -3,10 +3,11 @@ from operator import itemgetter
 import os
 import csv
 import json
-from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QPushButton, QSizePolicy, QFileDialog
+from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QWidget, QPushButton, QSizePolicy, QFileDialog, QLabel
 from PyQt5.QtGui import QFont
+from PyQt5.QtCore import Qt, QThread, pyqtSignal
 import sys
-
+import time
 
 def remove_common_prefix(sequences_list):
     # Transpose the list to get all parts in each position across the sequences
@@ -243,6 +244,7 @@ def get_full_data(csv_source):
     sorted_data = sorted(full_data, key=lambda x: (x["build"], x["floor"], x["area"]))
 
     return sorted_data
+
 def sort_group_func(sorted_data):
     result = []
     for key, group in groupby(sorted_data, key=itemgetter("build", "floor", "area")):
@@ -342,13 +344,32 @@ def build_json_structure(data):
 
 
 # Process the data and build the JSON structure
-# json_structure = build_json_structure(result)
 
-# with open(json_target, mode='w') as file:
-#     json.dump(json_structure, file, indent=2)
+class Worker(QThread):
+    finished = pyqtSignal(str)
+    error = pyqtSignal(str)
+    def __init__(self, file_paths):
+        super().__init__()
+        self.file_paths = file_paths
 
-# print(f"JSON structure saved to {json_target}")
+    def run(self):
+        try:
+            for file in self.file_paths:
+                sorted_data = get_full_data(file)
+                result = sort_group_func(sorted_data)
+                json_structure = build_json_structure(result)
+                base_name = os.path.basename(file)
+                json_file_name = os.path.splitext(base_name)[0] + ".json"
+                output_folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Output")
+                if not os.path.exists(output_folder):
+                    os.makedirs(output_folder)
+                json_file_path = os.path.join(output_folder, json_file_name)
 
+                with open(json_file_path, mode='w') as json_target_file:
+                    json.dump(json_structure, json_target_file, indent=2)
+            self.finished.emit("Task Completed!")
+        except Exception as e:
+            self.error.emit("Task Error!")
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
@@ -358,32 +379,53 @@ class MainWindow(QMainWindow):
         widget = QWidget()
         layout = QVBoxLayout()
 
-        loadBtn = QPushButton("Load files")
+        self.loadBtn = QPushButton("Load files")
+        self.status = QLabel("...")
+        self.saveBtn = QPushButton("Convert && Save")
+        self.loadBtn.setFont(large_font)
+        self.saveBtn.setFont(large_font)
+        self.status.setFont(large_font)
+        self.loadBtn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
+        self.saveBtn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
+        self.status.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
+        self.status.setAlignment(Qt.AlignCenter)
 
-        saveBtn = QPushButton("Convert && Save")
-        loadBtn.setFont(large_font)
-        saveBtn.setFont(large_font)
-        loadBtn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
-        saveBtn.setSizePolicy(QSizePolicy.Expanding, QSizePolicy.Expanding)
-
-        loadBtn.clicked.connect(self.load_files)
-        saveBtn.clicked.connect(self.save_files)
-        layout.addWidget(loadBtn)
-        layout.addWidget(saveBtn)
-
+        self.loadBtn.clicked.connect(self.load_files)
+        self.saveBtn.clicked.connect(self.save_files)
+        self.saveBtn.setEnabled(False)
+        self.file_paths = []
+        layout.addWidget(self.loadBtn)
+        layout.addWidget(self.saveBtn)
+        layout.addWidget(self.status)
         widget.setLayout(layout)
         self.setCentralWidget(widget)
 
     def load_files(self):
         file_paths, _ = QFileDialog.getOpenFileNames(self, "Open CSV Files", "", "CSV Files (*.csv);;All Files (*)")
-        
-        # Check if a file was selected
-        if file_paths:
-            for file_path in file_paths:
-                print(file_path)
 
+        if file_paths:
+            self.file_paths = file_paths
+            self.status.setText(f"{file_paths.__len__()} files loaded")
+        if self.file_paths:
+            self.saveBtn.setEnabled(True)
+        else:
+            self.saveBtn.setEnabled(False)
     def save_files(self):
-        print('save')
+        self.saveBtn.setEnabled(False)
+        self.status.setText("Task is running...")
+
+        self.worker = Worker(self.file_paths)
+        self.worker.finished.connect(self.TaskFinished)
+        self.worker.error.connect(self.TaskError)
+        self.worker.start()
+    
+    def TaskError(self):
+        self.saveBtn.setEnabled(True)
+        self.status.setText("An Error occur while Generating!")
+    
+    def TaskFinished(self):
+        self.saveBtn.setEnabled(True)
+        self.status.setText("Task Completed Successfully!")
 
 
 if __name__ == '__main__':
